@@ -39,6 +39,8 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import java.io.*;
+import java.util.zip.ZipEntry;
+import java.util.zip.ZipInputStream;
 
 
 public class MainActivity extends Activity {
@@ -76,14 +78,14 @@ public class MainActivity extends Activity {
 
 		byte[] buffer = new byte[1024];
 		OutputStream myOutput = null;
+		InputStream myInput = null;
 		int length;
         FileName = "poltava_.epub";
 		FILE_PATH = Environment.getExternalStorageDirectory()
 				+ "/epubtemp/";
-		InputStream myInput = null;
+
 		try {
 			myInput = this.getAssets().open(FileName);
-			// Передаем данные из inputfile в outputfile
 			myOutput = new FileOutputStream(FILE_PATH + FileName);
 			while ((length = myInput.read(buffer)) > 0) {
 				myOutput.write(buffer, 0, length);
@@ -96,6 +98,7 @@ public class MainActivity extends Activity {
 			e.printStackTrace();
 		}
 	}
+
 	protected void onResume() {
 		super.onResume();
 		if (panelCount == 0) {

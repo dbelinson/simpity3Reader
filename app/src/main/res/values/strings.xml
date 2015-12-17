@@ -4,7 +4,8 @@
     <string name="app_name">А.С.Пушкин</string>
 
     <color name="dark_grey">#696969</color>
-
+    <string name="copyright1">Copyright (c) 2010-2014</string>
+    <string name="copyright2">Professional Software Associates, Inc.</string>
     <string name="Open_Book_1">Open Book 1</string>
     <string name="Open_Book_2">Open Book 2</string>
     <string name="Enable_Parallel_Texts">Enable Parallel Texts</string>
