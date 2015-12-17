@@ -32,10 +32,14 @@ import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 import android.os.Bundle;
+import android.os.Environment;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.LinearLayout;
 import android.widget.Toast;
+
+import java.io.*;
+
 
 public class MainActivity extends Activity {
 
@@ -43,7 +47,8 @@ public class MainActivity extends Activity {
 	protected int bookSelector;
 	protected int panelCount;
 	protected String[] settings;
-
+	private String FILE_PATH;
+	private String FileName;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -60,11 +65,37 @@ public class MainActivity extends Activity {
 		navigator.loadViews(preferences);
 		if (panelCount == 0) {
 			bookSelector = 0;
-			Intent goToChooser = new Intent(this, FileChooser.class);
-			startActivityForResult(goToChooser, 0);
+			copyfile();
+			navigator.openBook((FILE_PATH + FileName), bookSelector);
+			//Intent goToChooser = new Intent(this, FileChooser.class);
+			//startActivityForResult(goToChooser, 0);
+
 		}
 	}
+	private void copyfile() {
 
+		byte[] buffer = new byte[1024];
+		OutputStream myOutput = null;
+		int length;
+        FileName = "poltava_.epub";
+		FILE_PATH = Environment.getExternalStorageDirectory()
+				+ "/epubtemp/";
+		InputStream myInput = null;
+		try {
+			myInput = this.getAssets().open(FileName);
+			// Передаем данные из inputfile в outputfile
+			myOutput = new FileOutputStream(FILE_PATH + FileName);
+			while ((length = myInput.read(buffer)) > 0) {
+				myOutput.write(buffer, 0, length);
+			}
+			myOutput.close();
+			myOutput.flush();
+			myInput.close();
+
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
+	}
 	protected void onResume() {
 		super.onResume();
 		if (panelCount == 0) {

@@ -25,9 +25,12 @@ THE SOFTWARE.
 package it.angrydroids.epub3reader;
 
 import java.io.File;
+import java.io.IOException;
+import java.net.URI;
 import java.util.ArrayList;
 import java.util.List;
 
+import android.content.res.AssetManager;
 import android.os.Bundle;
 import android.os.Environment;
 import android.app.Activity;
@@ -52,9 +55,12 @@ public class FileChooser extends Activity {
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.file_chooser_layout);
+		String [] filesName;
 
 		if ((epubs == null) || (epubs.size() == 0)) {
-			epubs = epubList(Environment.getExternalStorageDirectory());
+			epubs = epubList(new File(Environment.getExternalStorageDirectory()
+					+ "/epubtemp/*"));
+
 		}
 
 		ListView list = (ListView) findViewById(R.id.fileListView);
@@ -122,7 +128,9 @@ public class FileChooser extends Activity {
 	}
 
 	private void refreshList() {
-		epubs = epubList(Environment.getExternalStorageDirectory());
+		//epubs = epubList(Environment.getExternalStorageDirectory());
+		epubs = epubList(new File(Environment.getExternalStorageDirectory()
+				+ "/epubtemp/*"));
 		names.clear();
 		names.addAll(fileNames(epubs));
 		this.adapter.notifyDataSetChanged();
