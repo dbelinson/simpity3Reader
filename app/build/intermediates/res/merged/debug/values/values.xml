@@ -106,6 +106,8 @@
     <string name="change_Font">Change Font</string>
     <string name="change_Font_Color">Font Color:</string>
     <string name="contributorsMeta">&lt;tr>&lt;td>Contributors:&lt;/td></string>
+    <string name="copyright1">Copyright (c) 2010-2014</string>
+    <string name="copyright2">Professional Software Associates, Inc.</string>
     <string name="descriptionsMeta">&lt;tr>&lt;td>Descriptions:&lt;/td></string>
     <string name="error_CannotChangeStyle">Cannot Change Style!</string>
     <string name="error_CannotCloseStream">Cannot close stream!</string>

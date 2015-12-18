@@ -4,6 +4,14 @@
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.jpg"
     },
     {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\simpity_logo_org.png",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\drawable-hdpi\\simpity_logo_org.png"
+    },
+    {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher1.png",
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher1.png"
     }
