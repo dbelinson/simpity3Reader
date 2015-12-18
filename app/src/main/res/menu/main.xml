@@ -1,10 +1,11 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android" >
-        <item android:id="@+id/Open" android:title="@string/open">
+    <item android:id="@+id/Open" android:title="@string/open">
             <menu>
                 <item android:id="@+id/FirstEPUB" android:title="@string/Open_Book_1"/>
                 <item android:id="@+id/SecondEPUB" android:title="@string/Open_Book_2"/>
             </menu>
     </item>
+
     <item android:id="@+id/Front" android:title="@string/Enable_Parallel_Texts">
         <menu>
             <item android:id="@+id/FirstFront" android:title="@string/From_Book_1" android:visible="false"/>
@@ -48,6 +49,5 @@
             <item android:id="@+id/secondAudio" android:title="@string/Book_2"/>
         </menu>
     </item>
-
 
 </menu>

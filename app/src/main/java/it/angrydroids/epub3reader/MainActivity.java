@@ -39,8 +39,7 @@ import android.widget.LinearLayout;
 import android.widget.Toast;
 
 import java.io.*;
-import java.util.zip.ZipEntry;
-import java.util.zip.ZipInputStream;
+
 
 
 public class MainActivity extends Activity {
@@ -80,7 +79,7 @@ public class MainActivity extends Activity {
 		OutputStream myOutput = null;
 		InputStream myInput = null;
 		int length;
-        FileName = "poltava_.epub";
+        FileName = "pushkin_.epub";
 		FILE_PATH = Environment.getExternalStorageDirectory()
 				+ "/epubtemp/";
 
@@ -193,6 +192,12 @@ public class MainActivity extends Activity {
 	public boolean onOptionsItemSelected(MenuItem item) {
 
 		switch (item.getItemId()) {
+
+		/*	case R.id.About1:
+				Intent openAbout = new Intent(this, About.class);
+				startActivity(openAbout);
+				return true;*/
+
 		case R.id.FirstEPUB:
 			bookSelector = 0;
 			Intent goToChooser1 = new Intent(this, FileChooser.class);
