@@ -64,6 +64,7 @@ public class MainActivity extends Activity {
 		SharedPreferences preferences = getPreferences(MODE_PRIVATE);
 		loadState(preferences);
 		navigator.loadViews(preferences);
+
 		if (panelCount == 0) {
 			bookSelector = 0;
 			copyfile();
@@ -75,24 +76,26 @@ public class MainActivity extends Activity {
 	}
 	private void copyfile() {
 
-		byte[] buffer = new byte[1024];
+		byte[] buffer = new byte[2048];
 		OutputStream myOutput = null;
 		InputStream myInput = null;
 		int length;
         FileName = "pushkin_.epub";
 		FILE_PATH = Environment.getExternalStorageDirectory()
 				+ "/epubtemp/";
-
 		try {
 			myInput = this.getAssets().open(FileName);
+			File file = new File(FILE_PATH);
+			if (!file.exists()) {
+				file.mkdir();
+			}
 			myOutput = new FileOutputStream(FILE_PATH + FileName);
 			while ((length = myInput.read(buffer)) > 0) {
 				myOutput.write(buffer, 0, length);
 			}
-			myOutput.close();
 			myOutput.flush();
 			myInput.close();
-
+			myOutput.close();
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -193,10 +196,10 @@ public class MainActivity extends Activity {
 
 		switch (item.getItemId()) {
 
-		/*	case R.id.About1:
+			case R.id.About1:
 				Intent openAbout = new Intent(this, About.class);
 				startActivity(openAbout);
-				return true;*/
+				return true;
 
 		case R.id.FirstEPUB:
 			bookSelector = 0;
@@ -342,11 +345,11 @@ public class MainActivity extends Activity {
 			 * return true;
 			 */
 
-		case R.id.audio:
+			/*case R.id.audio:
 			if (navigator.exactlyOneBookOpen() == true)
 				if (!navigator.extractAudio(0))
 					errorMessage(getString(R.string.no_audio));
-			return true;
+			return true; */
 		case R.id.firstAudio:
 			if (!navigator.extractAudio(0))
 				errorMessage(getString(R.string.no_audio));

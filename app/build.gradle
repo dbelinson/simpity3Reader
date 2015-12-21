@@ -8,6 +8,7 @@ android {
         applicationId "it.angrydroids.epub3reader"
         minSdkVersion 13
         targetSdkVersion 19
+        maxSdkVersion 23
     }
 
     buildTypes {
