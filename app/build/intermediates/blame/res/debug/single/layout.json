@@ -34,9 +34,5 @@
     {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_chooser_layout.xml",
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\layout\\file_chooser_layout.xml"
-    },
-    {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about_view.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\layout\\activity_about_view.xml"
     }
 ]

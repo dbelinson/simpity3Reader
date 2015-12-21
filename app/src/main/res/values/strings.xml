@@ -3,6 +3,7 @@
 
     <string name="app_name">А.С.Пушкин   Стихотворения 1813-1820</string>
 
+
     <color name="dark_grey">#696969</color>
     <string name="copyright1">Copyright (c) 2010-2016</string>
     <string name="description1">Том 1. Стихотворения 1813-1820</string>
@@ -19,7 +20,8 @@
     <string name="Enable_Parallel_Texts">Enable Parallel Texts</string>
     <string name="Toggle_Sync_Views">Toggle Sync Views</string>
     <string name="Reset_Sync_Views">Reset Sync Views</string>
-    <string name="Show_Metadata">Show Metadata</string>
+    <string name="Show_Metadata">Информация о книге</string>
+    <string name="AboutUS">О нас</string>
     <string name="Refresh">Refresh</string>
     <string name="From_Book_1">From Book 1</string>
     <string name="From_Book_2">From Book 2</string>
@@ -29,7 +31,6 @@
     <string name="Book_2">Book 2</string>
     <string name="bookOpen">bookOpen</string>
     <string name="Table_of_Contents">Оглавление</string>
-     <string name="About">О нас</string>
     <string name="Change_Size">Change Panel Size</string>
     <string name="error_LoadPage">Can not load the page</string>
     <string name="error_LoadBook">Cannot load the book</string>
@@ -74,7 +75,7 @@
     <string name="tocReference">&lt;tr&gt;&lt;td&gt;Table of Contents:&lt;/td&gt;</string>
     <string name="change_Font">Change Font</string>
     <string name="change_Font_Color">Font Color:</string>
-    <string name="changeStyle">изменение стиля</string>
+    <string name="changeStyle">Изменение стиля</string>
     <string name="blue_rgb">#0000ff</string>
     <string name="red_rgb">#ff0000</string>
     <string name="green_rgb">#00ff00</string>

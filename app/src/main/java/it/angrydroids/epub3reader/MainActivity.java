@@ -144,8 +144,8 @@ public class MainActivity extends Activity {
 
 		if (navigator.isParallelTextOn() == false
 				&& navigator.exactlyOneBookOpen() == false) {
-			menu.findItem(R.id.meta1).setVisible(true);
-			menu.findItem(R.id.meta2).setVisible(true);
+		//	menu.findItem(R.id.meta1).setVisible(true);
+		//	menu.findItem(R.id.meta2).setVisible(true);
 			menu.findItem(R.id.toc1).setVisible(true);
 			menu.findItem(R.id.toc2).setVisible(true);
 			menu.findItem(R.id.FirstFront).setVisible(true);
@@ -153,7 +153,7 @@ public class MainActivity extends Activity {
 		}
 
 		if (navigator.exactlyOneBookOpen() == false) {
-			menu.findItem(R.id.Synchronize).setVisible(true);
+			//menu.findItem(R.id.Synchronize).setVisible(true);
 			menu.findItem(R.id.Align).setVisible(true);
 			// menu.findItem(R.id.SyncScroll).setVisible(true);
 			menu.findItem(R.id.StyleBook1).setVisible(true);
@@ -164,8 +164,8 @@ public class MainActivity extends Activity {
 
 		if (navigator.exactlyOneBookOpen() == true
 				|| navigator.isParallelTextOn() == true) {
-			menu.findItem(R.id.meta1).setVisible(false);
-			menu.findItem(R.id.meta2).setVisible(false);
+			//menu.findItem(R.id.meta1).setVisible(false);
+		//	menu.findItem(R.id.meta2).setVisible(false);
 			menu.findItem(R.id.toc1).setVisible(false);
 			menu.findItem(R.id.toc2).setVisible(false);
 			menu.findItem(R.id.FirstFront).setVisible(false);
@@ -173,7 +173,7 @@ public class MainActivity extends Activity {
 		}
 
 		if (navigator.exactlyOneBookOpen() == true) {
-			menu.findItem(R.id.Synchronize).setVisible(false);
+			//menu.findItem(R.id.Synchronize).setVisible(false);
 			menu.findItem(R.id.Align).setVisible(false);
 			menu.findItem(R.id.SyncScroll).setVisible(false);
 			menu.findItem(R.id.StyleBook1).setVisible(false);
@@ -195,11 +195,6 @@ public class MainActivity extends Activity {
 	public boolean onOptionsItemSelected(MenuItem item) {
 
 		switch (item.getItemId()) {
-
-			case R.id.About1:
-				Intent openAbout = new Intent(this, About.class);
-				startActivity(openAbout);
-				return true;
 
 		case R.id.FirstEPUB:
 			bookSelector = 0;
@@ -256,15 +251,15 @@ public class MainActivity extends Activity {
 			}
 			return true;
 
-		case R.id.Synchronize:
+		/*case R.id.Synchronize:
 
 			boolean sync = navigator.flipSynchronizedReadingActive();
 			if (!sync) {
 				errorMessage(getString(R.string.error_onlyOneBookOpen));
 			}
 			return true;
-
-		case R.id.Metadata:
+*/
+	/*	case R.id.Metadata:
 			if (navigator.exactlyOneBookOpen() == true
 					|| navigator.isParallelTextOn() == true) {
 				navigator.displayMetadata(0);
@@ -280,7 +275,7 @@ public class MainActivity extends Activity {
 		case R.id.meta2:
 			if (!navigator.displayMetadata(1))
 				errorMessage(getString(R.string.error_metadataNotFound));
-			return true;
+			return true;*/
 
 		case R.id.tableOfContents:
 			if (navigator.exactlyOneBookOpen() == true

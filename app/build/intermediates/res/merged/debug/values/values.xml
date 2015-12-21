@@ -57,7 +57,7 @@
     <dimen name="horizontal_button_height">10dp</dimen>
     <dimen name="margin_bottom">12dp</dimen>
     <dimen name="vertical_button_width">10dp</dimen>
-    <string name="About">О нас</string>
+    <string name="AboutUS">О нас</string>
     <string name="Arial">Sans Serif</string>
     <string name="Book_1">Book 1</string>
     <string name="Book_2">Book 2</string>
@@ -88,7 +88,7 @@
     <string name="Right_Align">Right</string>
     <string name="Serif">Serif</string>
     <string name="SetSizeTitle">Upper Panel Size:</string>
-    <string name="Show_Metadata">Show Metadata</string>
+    <string name="Show_Metadata">Информация о книге</string>
     <string name="Sync_Book_1_with_Book_2">Sync Book 1 with Book 2</string>
     <string name="Sync_Book_2_with_Book_1">Sync Book 2 with Book 1</string>
     <string name="Table_of_Contents">Оглавление</string>
@@ -103,7 +103,7 @@
     <string name="blue_rgb">#0000ff</string>
     <string name="bookOpen">bookOpen</string>
     <string name="bpath">bpath</string>
-    <string name="changeStyle">изменение стиля</string>
+    <string name="changeStyle">Изменение стиля</string>
     <string name="change_Font">Change Font</string>
     <string name="change_Font_Color">Font Color:</string>
     <string name="contributorsMeta">&lt;tr>&lt;td>Contributors:&lt;/td></string>

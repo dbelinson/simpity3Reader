@@ -17,7 +17,7 @@
         </menu>
     </item>
       
-    <item android:id="@+id/Synchronize" android:title="@string/Toggle_Sync_Views" android:visible="false"></item>
+ <!--   <item android:id="@+id/Synchronize" android:title="@string/Toggle_Sync_Views" android:visible="false"></item>-->
     <item android:id="@+id/Align" android:title="@string/Reset_Sync_Views" android:visible="false">
         <menu>
             
@@ -26,18 +26,20 @@
         </menu>
     </item>
    
-    <item android:id="@+id/Metadata" android:title="@string/Show_Metadata">
+    <!--<item android:id="@+id/Metadata" android:title="@string/Show_Metadata">
         <menu>
             <item android:id="@+id/meta1" android:title="@string/Book_1" android:visible="false"/>
             <item android:id="@+id/meta2" android:title="@string/Book_2" android:visible="false"/>           
         </menu>
-    </item>
+-->
+
     <item android:id="@+id/tableOfContents" android:title="@string/Table_of_Contents">
         <menu>
             <item android:id="@+id/toc1" android:title="@string/Book_1" android:visible="false"/>
             <item android:id="@+id/toc2" android:title="@string/Book_2" android:visible="false"/>
         </menu>
     </item>
+
     <item android:id="@+id/changeSize" android:title="@string/Change_Size" android:visible="true" android:checkable="false">
     </item>
     <item android:id="@+id/Style" android:title="@string/changeStyle" android:visible="true">
@@ -46,12 +48,12 @@
             <item android:id="@+id/StyleBook2" android:title="@string/Book_2" android:visible="false"/>
         </menu>
     </item>
-    <item android:id="@+id/SyncScroll" android:title="@string/syncScroll" android:visible="false"></item>
-    <!--<item android:id="@+id/audio" android:title="@string/audio"> </item>-->
+    <item android:id="@+id/SyncScroll" android:title="@string/syncScroll" android:visible="false">
         <menu>
             <item android:id="@+id/firstAudio" android:title="@string/Book_1"/>
             <item android:id="@+id/secondAudio" android:title="@string/Book_2"/>
         </menu>
+    </item>
 
-    <item android:id="@+id/About1" android:title="@string/About"  />
+
 </menu>
