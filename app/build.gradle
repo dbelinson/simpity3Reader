@@ -12,7 +12,7 @@ android {
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId "it.angrydroids.epub3reader"
+        applicationId "it.angrydroids.simpity3reader"
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23

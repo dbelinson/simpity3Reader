@@ -22,7 +22,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
  */
 
-package it.angrydroids.epub3reader;
+package it.angrydroids.simpity3reader;
 
 import java.io.IOException;
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="it.angrydroids.epub3reader.test">
+    package="it.angrydroids.simpity3reader.test">
 
     <uses-sdk android:minSdkVersion="13" android:targetSdkVersion="19" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="it.angrydroids.epub3reader"
+                     android:targetPackage="it.angrydroids.simpity3reader"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for it.angrydroids.epub3reader"/>
+                     android:label="Tests for it.angrydroids.simpity3reader"/>
 </manifest>

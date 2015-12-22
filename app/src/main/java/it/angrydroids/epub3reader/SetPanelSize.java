@@ -1,4 +1,4 @@
-package it.angrydroids.epub3reader;
+package it.angrydroids.simpity3reader;
 
 import android.app.AlertDialog;
 import android.app.Dialog;

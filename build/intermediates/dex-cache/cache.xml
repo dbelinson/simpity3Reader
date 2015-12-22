@@ -2,25 +2,25 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\libs\epublib-core-latest.jar"
+        jar="C:\Users\dbelinson\AndroidStudioProjects\simpity3reader-master\simpity3reader-master\simpity3Reader\app\libs\epublib-core-latest.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\build\intermediates\pre-dexed\release\epublib-core-latest_82d6e8abf55efff3f5856abfd7eb9295774ccaf0.jar" />
-    </item>
-    <item
-        jar="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\libs\slf4j-android-1.6.1-RC1.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\build\intermediates\pre-dexed\release\slf4j-android-1.6.1-RC1_0803403d7735f12e4e537f5122a8d2744e9022e1.jar" />
+        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\simpity3reader-master\simpity3reader-master\simpity3Reader\app\build\intermediates\pre-dexed\debug\epublib-core-latest_9665df6f61fe0fdd51804be54bc698429e2002b3.jar" />
     </item>
     <item
         jar="C:\Users\dbelinson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
         jumboMode="false"
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
+        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\simpity3reader-master\simpity3reader-master\simpity3Reader\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
+    </item>
+    <item
+        jar="C:\Users\dbelinson\AndroidStudioProjects\simpity3reader-master\simpity3reader-master\simpity3Reader\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
+        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\simpity3reader-master\simpity3reader-master\simpity3Reader\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_88109b769c697c414802a25dbf6e9b17145fc6af.jar" />
     </item>
 
 </items>
