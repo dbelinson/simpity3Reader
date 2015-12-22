@@ -72,7 +72,7 @@
     <string name="descriptionsMeta">&lt;tr&gt;&lt;td&gt;Descriptions:&lt;/td&gt;</string>
     <string name="rightsMeta">&lt;tr&gt;&lt;td&gt;Rights:&lt;/td&gt;</string>
     <string name="tablebodyhtmlClose">&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</string>
-    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Table of Contents:&lt;/td&gt;</string>
+    <string name="tocReference">&lt;tr&gt;&lt;td&gt;Оглавление:&lt;/td&gt;</string>
     <string name="change_Font">Change Font</string>
     <string name="change_Font_Color">Font Color:</string>
     <string name="changeStyle">Изменение стиля</string>
