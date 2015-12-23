@@ -1,10 +1,6 @@
 [
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
-    },
-    {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\simpity3reader-master\\simpity3reader-master\\simpity3Reader\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\simpity3reader-master\\simpity3reader-master\\simpity3Reader\\app\\src\\main\\res\\layout-land\\activity_main.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout-land\\activity_main.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout-land\\activity_main.xml"
     }
 ]

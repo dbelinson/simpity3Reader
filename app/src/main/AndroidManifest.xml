@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="it.angrydroids.simpity3reader"
+    package="com.simpity.pushkin.vol1"
     android:versionCode="1"
     android:versionName="1.1" >
 
@@ -16,27 +16,32 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <activity
-            android:name="it.angrydroids.simpity3reader.MainActivity"
-            android:label="@string/app_name" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+        <activity android:name="com.simpity.pushkin.vol1.MainActivity" android:label="@string/app_name">
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name="it.angrydroids.simpity3reader.FileChooser" >
-        </activity>
+
+        <intent-filter>
+
+        <action android:name="android.intent.action.MAIN"/>
+
+        <category android:name="android.intent.category.LAUNCHER"/>
+
+    </intent-filter>
+
+    </activity>
         <activity
-            android:name="it.angrydroids.simpity3reader.BookView"
+            android:name="com.simpity.pushkin.vol1.FileChooser"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="it.angrydroids.simpity3reader.DataView"
+            android:name="com.simpity.pushkin.vol1.BookView"
+            android:label="@string/title_activity_book_view" >
+        </activity>
+        <activity
+            android:name="com.simpity.pushkin.vol1.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name="it.angrydroids.simpity3reader.AudioView"
+            android:name="com.simpity.pushkin.vol1.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
 

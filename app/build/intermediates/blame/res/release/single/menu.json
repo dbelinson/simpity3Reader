@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\tocview.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\tocview.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\file_chooser.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\file_chooser.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\audio_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\audio_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\book_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\data_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\split_panel.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\split_panel.xml"
+    }
+]
