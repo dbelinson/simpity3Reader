@@ -16,12 +16,12 @@
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\audio_view.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\book_view.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\book_view.xml"
-    },
-    {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\data_view.xml",
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\book_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\book_view.xml"
     },
     {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\release\\menu\\split_panel.xml",
