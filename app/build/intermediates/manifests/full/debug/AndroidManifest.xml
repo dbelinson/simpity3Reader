@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simpity.pushkin.vol1"
+    package="com.simpity.pushkin.pikovaiaDama"
     android:versionCode="1"
     android:versionName="1.1" >
 
@@ -18,7 +18,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.simpity.pushkin.vol1.MainActivity"
+            android:name="com.simpity.pushkin.pikovaiaDama.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -27,19 +27,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol1.FileChooser"
+            android:name="com.simpity.pushkin.pikovaiaDama.FileChooser"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol1.BookView"
+            android:name="com.simpity.pushkin.pikovaiaDama.BookView"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol1.DataView"
+            android:name="com.simpity.pushkin.pikovaiaDama.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol1.AudioView"
+            android:name="com.simpity.pushkin.pikovaiaDama.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
     </application>
