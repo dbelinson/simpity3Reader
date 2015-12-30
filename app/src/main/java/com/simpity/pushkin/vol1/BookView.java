@@ -57,6 +57,7 @@ public class BookView extends SplitPanel {
     public void onActivityCreated(Bundle saved) {
 		super.onActivityCreated(saved);
 		view = (WebView) getView().findViewById(R.id.Viewport);
+		view.getSettings().setDefaultTextEncodingName("utf-8");
 
 		// enable JavaScript for cool things to happen!
 		view.getSettings().setJavaScriptEnabled(true);
