@@ -102,6 +102,7 @@ public class EpubNavigator {
 			changePanel(new BookView(), index);
 
 		((BookView) views[index]).state = state;
+		((BookView) views[index]).view.getSettings().setDefaultTextEncodingName("utf-8");
 		((BookView) views[index]).loadPage(pathOfPage);
 	}
 
