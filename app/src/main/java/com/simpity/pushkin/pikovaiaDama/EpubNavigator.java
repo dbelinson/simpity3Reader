@@ -89,7 +89,6 @@ public class EpubNavigator {
 
 	public void loadPageIntoView(String pathOfPage, int index) {
 		ViewStateEnum state = ViewStateEnum.notes;
-
 		if (books[index] != null)
 			if ((pathOfPage.equals(books[index].getCurrentPageURL()))
 					|| (books[index].getPageIndex(pathOfPage) >= 0))
@@ -103,7 +102,6 @@ public class EpubNavigator {
 
 		((BookView) views[index]).state = state;
 		((BookView) views[index]).loadPage(pathOfPage);
-		((BookView) views[index]).view.getSettings().setDefaultTextEncodingName("utf-8");
 	}
 
 	// if synchronized reading is active, change chapter in each books

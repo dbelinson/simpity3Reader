@@ -85,7 +85,7 @@ public class MainActivity extends Activity {
 		int length;
         FileName = "PikovaiaDama_.epub";
 		FILE_PATH = Environment.getExternalStorageDirectory()
-				+ "/epubtemp/";
+				+ "/epubtempA/";
 		try {
 			myInput = this.getAssets().open(FileName);
 			File file = new File(FILE_PATH);

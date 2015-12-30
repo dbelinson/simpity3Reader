@@ -70,7 +70,7 @@ public class EpubManipulator {
 	private String pathOPF;
 	private static Context context;
 	private static String location = Environment.getExternalStorageDirectory()
-			+ "/epubtemp/";
+			+ "/epubtempA/";
 
 	private String fileName;
 	FileInputStream fs;
