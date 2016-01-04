@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\libs\epublib-core-latest.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
+        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" />
+    </item>
+    <item
         jar="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\libs\slf4j-android-1.6.1-RC1.jar"
         jumboMode="false"
         revision="19.1.0"
@@ -14,13 +21,6 @@
         revision="19.1.0"
         sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
         <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
-    </item>
-    <item
-        jar="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\libs\epublib-core-latest.jar"
-        jumboMode="false"
-        revision="19.1.0"
-        sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" />
     </item>
 
 </items>

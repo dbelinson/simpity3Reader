@@ -3,16 +3,16 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'EvgenyOnegin'
+            keyAlias 'Dubrovskii'
             keyPassword 'd030476b'
-            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/EvgenyOnegin.jks')
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/dubrovskii.jks')
             storePassword 'd030476b'
         }
     }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId 'com.simpity.pushkin.EvgeniiOnegin'
+        applicationId 'com.simpity.pushkin.dubrovskii'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
@@ -29,6 +29,9 @@ android {
     }
     buildTypes {
         release {
+            signingConfig signingConfigs.config
+        }
+        debug {
             signingConfig signingConfigs.config
         }
     }
