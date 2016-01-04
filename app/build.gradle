@@ -1,25 +1,37 @@
 apply plugin: 'com.android.application'
 
 android {
-
+    signingConfigs {
+        config {
+            keyAlias 'EvgenyOnegin'
+            keyPassword 'd030476b'
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/EvgenyOnegin.jks')
+            storePassword 'd030476b'
+        }
+    }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId "com.simpity.pushkin.vol1"
+        applicationId 'com.simpity.pushkin.EvgeniiOnegin'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
         versionCode 2
         versionName "1.2"
     }
-
     sourceSets {
         main {
             assets.srcDirs = ['src/main/assets', 'src/main/assets/']
             res.srcDirs = ['src/main/res', 'src/main/res/book']
         }
     }
-
+    productFlavors {
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.config
+        }
+    }
 }
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'
