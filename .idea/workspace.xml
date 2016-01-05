@@ -10,35 +10,180 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="074f2f9f-becb-4730-abb1-572ace93e694" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/assets/kapitanskaya_dochka_.epub" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\generated\source\buildConfig\androidTest\debug\com\simpity\pushkin\dubrovskii\test\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\generated\source\buildConfig\debug\com\simpity\pushkin\dubrovskii\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\generated\source\buildConfig\release\com\simpity\pushkin\dubrovskii\BuildConfig.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\generated\source\r\debug\com\simpity\pushkin\dubrovskii\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\generated\source\r\release\com\simpity\pushkin\dubrovskii\R.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\assets\debug\dubrovskii_.epub" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\assets\release\dubrovskii_.epub" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\androidTest\debug\com\simpity\pushkin\EvgeniiOnegin\test\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\AudioView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BookView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BookView$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BookView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BookView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BookView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ChangeCSSMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\DataView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\DataView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\EpubManipulator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\EpubNavigator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\FileChooser$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\FileChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\LanguageChooser$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\LanguageChooser$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\LanguageChooser$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\LanguageChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\SetPanelSize$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\SetPanelSize$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\SetPanelSize.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\SplitPanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\SplitPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\debug\com\simpity\pushkin\dubrovskii\ViewStateEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\AudioView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BookView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BookView$2$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BookView$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BookView$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BookView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\BuildConfig.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$10.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$11.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$4.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$5.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$6.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$7.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$8.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu$9.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ChangeCSSMenu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\DataView$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\DataView.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\EpubManipulator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\EpubNavigator.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\FileChooser$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\FileChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\LanguageChooser$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\LanguageChooser$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\LanguageChooser$3.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\LanguageChooser.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\MainActivity.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$array.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$attr.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$color.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$dimen.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$drawable.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$id.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$layout.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$menu.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$string.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R$style.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\R.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\SetPanelSize$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\SetPanelSize$2.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\SetPanelSize.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\SplitPanel$1.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\SplitPanel.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\classes\release\com\simpity\pushkin\dubrovskii\ViewStateEnum.class" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\assets\dubrovskii_.epub" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\AudioView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\BookView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\ChangeCSSMenu.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\DataView.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\EpubManipulator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\EpubNavigator.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\FileChooser.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\LanguageChooser.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\SetPanelSize.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\SplitPanel.java" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\java\com\simpity\pushkin\dubrovskii\ViewStateEnum.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-release-unaligned.apk" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-release.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-release.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_f673a8a36204f202fe3a54c205af83344caeb576.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_f673a8a36204f202fe3a54c205af83344caeb576.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi-v4/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi-v4/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/release/jars/2/1f/main.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/release_f5050689d7149098ad79457d3b0674dd17453e42.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/release_f5050689d7149098ad79457d3b0674dd17453e42.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1_64c0a94e12f9c8b00e61573729f4727f7073cc19.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/slf4j-android-1.6.1-RC1_64c0a94e12f9c8b00e61573729f4727f7073cc19.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/slf4j-android-1.6.1-RC1_64c0a94e12f9c8b00e61573729f4727f7073cc19.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/slf4j-android-1.6.1-RC1_64c0a94e12f9c8b00e61573729f4727f7073cc19.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/release/support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/release/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/app/build/outputs/lint-results-release-fatal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/menu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/menu.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values/values.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -74,85 +219,33 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+              <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/MainActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
               <folding>
-                <element signature="e#573#591#0" expanded="true" />
+                <element signature="e#0#14006#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="device-2016-01-04-174335.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174335.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device-2016-01-04-174509.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174509.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device-2016-01-04-174606.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174606.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device-2016-01-04-174644.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174644.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="device-2016-01-04-174720.png" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174720.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BookView.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/BookView.java">
+      <file leaf-file-name="FileChooser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/FileChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EpubNavigator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/EpubNavigator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.275862">
-              <caret line="36" column="16" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EpubManipulator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/EpubManipulator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.137931">
-              <caret line="72" column="21" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileChooser.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/FileChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-              <folding />
+            <state vertical-scroll-proportion="0.2369403">
+              <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -160,8 +253,8 @@
     </leaf>
   </component>
   <component name="GenerateSignedApkSettings">
-    <option name="KEY_STORE_PATH" value="C:\Users\dbelinson\AndroidStudioProjects\EvgenyOnegin.jks" />
-    <option name="KEY_ALIAS" value="EvgenyOnegin" />
+    <option name="KEY_STORE_PATH" value="C:\Users\dbelinson\AndroidStudioProjects\kapitanskayadochka.jks" />
+    <option name="KEY_ALIAS" value="KapitanskayaDochka" />
     <option name="REMEMBER_PASSWORDS" value="true" />
   </component>
   <component name="Git.Settings">
@@ -1340,7 +1433,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook" value="4353149095041" />
+        <entry key="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook" value="4353154563926" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1716,8 +1809,21 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/EvgeniiOnegin/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/EvgeniiOnegin/FileChooser.java" />
         <option value="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/AudioView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/BookView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/ChangeCSSMenu.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/DataView.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/EpubNavigator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/LanguageChooser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/SetPanelSize.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/SplitPanel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/ViewStateEnum.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/build/intermediates/manifests/full/release/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/MainActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/FileChooser.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/EpubManipulator.java" />
       </list>
     </option>
   </component>
@@ -1760,6 +1866,64 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PushkinBook" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Gradle Scripts" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PushkinBook" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PushkinBook" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PushkinBook" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kapitanskayadochka" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -1868,28 +2032,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushkinBook" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Gradle Scripts" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidBuildScriptsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PushkinBook" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -1903,7 +2045,7 @@
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
     <property name="SearchEverywhereHistoryKey" value="reader&#9;PSI&#9;JAVA://java.io.Reader&#10;it&#9;FILE&#9;file://C:/Users/dbelinson/AndroidStudioProjects/PushkinBook/simpity3Reader.iml" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet" />
     <property name="FullScreen" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable-xhdpi" />
     <property name="android.project.structure.last.selected" value="app" />
@@ -1911,9 +2053,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\res\drawable-xhdpi" />
-      <recent name="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\res\drawable-hdpi" />
       <recent name="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\assets" />
+      <recent name="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\res\drawable-hdpi" />
+      <recent name="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\res\drawable-xhdpi" />
     </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
@@ -2102,22 +2244,22 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.48720682" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053304" sideWeight="0.5499154" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.48081023" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053304" sideWeight="0.56155145" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34333333" sideWeight="0.53837955" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34111112" sideWeight="0.5490405" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34333333" sideWeight="0.46162048" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34111112" sideWeight="0.45095947" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.4914712" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34333333" sideWeight="0.53837955" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3422222" sideWeight="0.54477614" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053304" sideWeight="0.4500846" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25053304" sideWeight="0.43844858" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -2149,190 +2291,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#573#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pushkin.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PushkinBook.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#573#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pushkin.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PushkinBook.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#573#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pushkin.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PushkinBook.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
-          <folding>
-            <element signature="e#573#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_45/src.zip!/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.79816514">
-          <caret line="73" column="49" selection-start-line="73" selection-start-column="49" selection-end-line="73" selection-end-column="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pushkin.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/app.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-19/java/io/Reader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.3059034">
-          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PushkinBook.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_audio_view.xml">
       <provider editor-type-id="android-designer">
         <state />
@@ -2417,75 +2375,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.037037">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/AudioView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30195382">
-          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/BookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/EpubNavigator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.275862">
-          <caret line="36" column="16" selection-start-line="36" selection-start-column="12" selection-end-line="36" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/EpubManipulator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.137931">
-          <caret line="72" column="21" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/dubrovskii/FileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="13" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="34" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-          <folding>
-            <element signature="e#573#591#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174335.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174509.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174606.png">
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174720.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -2495,9 +2385,218 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174720.png">
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174606.png">
       <provider selected="true" editor-type-id="images">
         <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174509.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/dubrovskii/planshet/device-2016-01-04-174335.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/AudioView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="53" column="13" selection-start-line="53" selection-start-column="13" selection-end-line="53" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/BookView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/ChangeCSSMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/DataView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/EpubNavigator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/LanguageChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/SplitPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/ViewStateEnum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-19/android/content/Intent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33333334">
+          <caret line="612" column="72" selection-start-line="612" selection-start-column="68" selection-end-line="612" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/SetPanelSize.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="46" selection-start-line="0" selection-start-column="46" selection-end-line="0" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-121810.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-121710.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-121638.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-121618.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-123447.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-123359.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-123312.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/kapitanskaya_dochka_.epub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-141458.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-140903.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-123142.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-140650.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/planshet/device-2016-01-05-140621.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../Dmitry/Pictures/KapitanskayaDochka/device-2016-01-05-140426.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/EpubManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07835821">
+          <caret line="72" column="38" selection-start-line="72" selection-start-column="20" selection-end-line="72" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="31" column="69" selection-start-line="31" selection-start-column="69" selection-end-line="31" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="87" column="20" selection-start-line="87" selection-start-column="20" selection-end-line="87" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#14006#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/pushkin/kapitanskayadochka/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2369403">
+          <caret line="129" column="20" selection-start-line="129" selection-start-column="20" selection-end-line="129" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
   </component>
