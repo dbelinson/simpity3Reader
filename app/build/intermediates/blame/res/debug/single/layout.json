@@ -8,12 +8,12 @@
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_data_view.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_main.xml"
-    },
-    {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_panel_size.xml",
         "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\set_panel_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
         "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_view.xml",

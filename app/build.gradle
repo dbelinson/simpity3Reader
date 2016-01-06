@@ -3,21 +3,22 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'sobraniiestikhotvorienii'
+            keyAlias 'SkazkaoPope'
             keyPassword 'd030476b'
-            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/sobraniiestikhotvorienii.jks')
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/skazkaOpope.jks')
             storePassword 'd030476b'
         }
     }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId 'com.simpity.pushkin.sobraniiestikhotvorienii'
+        applicationId 'com.simpity.pushkin.skazkaopope'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
         versionCode 1
         versionName '1.0'
+        signingConfig signingConfigs.config
     }
     sourceSets {
         main {

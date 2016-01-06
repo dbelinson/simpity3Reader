@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simpity.pushkin.sobraniiestikhotvorienii"
+    package="com.simpity.pushkin.skazkaopope"
     android:versionCode="1"
     android:versionName="1.1" >
 
@@ -16,7 +16,7 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.simpity.pushkin.sobraniiestikhotvorienii.MainActivity" android:label="@string/app_name">
+        <activity android:name="com.simpity.pushkin.skazkaopope.MainActivity" android:label="@string/app_name">
 
 
         <intent-filter>
@@ -29,19 +29,19 @@
 
     </activity>
         <activity
-            android:name="com.simpity.pushkin.sobraniiestikhotvorienii.FileChooser"
+            android:name="com.simpity.pushkin.skazkaopope.FileChooser"
             >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.sobraniiestikhotvorienii.BookView"
+            android:name="com.simpity.pushkin.skazkaopope.BookView"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.sobraniiestikhotvorienii.DataView"
+            android:name="com.simpity.pushkin.skazkaopope.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.sobraniiestikhotvorienii.AudioView"
+            android:name="com.simpity.pushkin.skazkaopope.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
 
