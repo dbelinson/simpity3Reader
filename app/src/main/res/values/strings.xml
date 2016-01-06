@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Капитанская дочка  А.С.Пушкин </string>
+    <string name="app_name">Полное собрание стихотворений  А.С.Пушкин </string>
 
 
     <color name="dark_grey">#696969</color>
     <string name="copyright1">Copyright (c) 2010-2016</string>
-    <string name="description1">Капитанская дочка  А.С.Пушкин </string>
+    <string name="description1">Полное собрание стихотворений  А.С.Пушкин </string>
     <string name="description2">
         </string>
     <string name="copyright2">Professional Software Associates, Inc.</string>

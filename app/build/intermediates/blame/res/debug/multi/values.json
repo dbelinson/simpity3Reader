@@ -16,10 +16,10 @@
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
-                        "startOffset": 5036,
+                        "startOffset": 5060,
                         "endLine": 101,
                         "endColumn": 19,
-                        "endOffset": 5225
+                        "endOffset": 5249
                     }
                 }
             },
@@ -37,10 +37,10 @@
                     "position": {
                         "startLine": 85,
                         "startColumn": 4,
-                        "startOffset": 4768,
+                        "startOffset": 4792,
                         "endLine": 91,
                         "endColumn": 19,
-                        "endOffset": 4957
+                        "endOffset": 4981
                     }
                 }
             },
@@ -58,10 +58,10 @@
                     "position": {
                         "startLine": 134,
                         "startColumn": 4,
-                        "startOffset": 6278,
+                        "startOffset": 6302,
                         "endLine": 141,
                         "endColumn": 19,
-                        "endOffset": 6490
+                        "endOffset": 6514
                     }
                 }
             },
@@ -79,10 +79,10 @@
                     "position": {
                         "startLine": 106,
                         "startColumn": 4,
-                        "startOffset": 5334,
+                        "startOffset": 5358,
                         "endLine": 110,
                         "endColumn": 19,
-                        "endOffset": 5479
+                        "endOffset": 5503
                     }
                 }
             },
@@ -100,10 +100,10 @@
                     "position": {
                         "startLine": 142,
                         "startColumn": 4,
-                        "startOffset": 6496,
+                        "startOffset": 6520,
                         "endLine": 149,
                         "endColumn": 19,
-                        "endOffset": 6715
+                        "endOffset": 6739
                     }
                 }
             },
@@ -121,10 +121,10 @@
                     "position": {
                         "startLine": 153,
                         "startColumn": 4,
-                        "startOffset": 6770,
+                        "startOffset": 6794,
                         "endLine": 160,
                         "endColumn": 19,
-                        "endOffset": 6967
+                        "endOffset": 6991
                     }
                 }
             },
@@ -142,10 +142,10 @@
                     "position": {
                         "startLine": 119,
                         "startColumn": 4,
-                        "startOffset": 5777,
+                        "startOffset": 5801,
                         "endLine": 124,
                         "endColumn": 19,
-                        "endOffset": 5949
+                        "endOffset": 5973
                     }
                 }
             },
@@ -162,9 +162,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 132,
+                        "startOffset": 144,
                         "endColumn": 43,
-                        "endOffset": 171
+                        "endOffset": 183
                     }
                 }
             },
@@ -314,9 +314,9 @@
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 815,
+                        "startOffset": 839,
                         "endColumn": 41,
-                        "endOffset": 852
+                        "endOffset": 876
                     }
                 }
             },
@@ -333,9 +333,9 @@
                     "position": {
                         "startLine": 112,
                         "startColumn": 4,
-                        "startOffset": 5487,
+                        "startOffset": 5511,
                         "endColumn": 44,
-                        "endOffset": 5527
+                        "endOffset": 5551
                     }
                 }
             },
@@ -352,9 +352,9 @@
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 1163,
+                        "startOffset": 1187,
                         "endColumn": 41,
-                        "endOffset": 1200
+                        "endOffset": 1224
                     }
                 }
             },
@@ -371,9 +371,9 @@
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
-                        "startOffset": 1206,
+                        "startOffset": 1230,
                         "endColumn": 41,
-                        "endOffset": 1243
+                        "endOffset": 1267
                     }
                 }
             },
@@ -390,9 +390,9 @@
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 2834,
+                        "startOffset": 2858,
                         "endColumn": 51,
-                        "endOffset": 2881
+                        "endOffset": 2905
                     }
                 }
             },
@@ -409,9 +409,9 @@
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
-                        "startOffset": 4528,
+                        "startOffset": 4552,
                         "endColumn": 41,
-                        "endOffset": 4565
+                        "endOffset": 4589
                     }
                 }
             },
@@ -428,9 +428,9 @@
                     "position": {
                         "startLine": 127,
                         "startColumn": 4,
-                        "startOffset": 6002,
+                        "startOffset": 6026,
                         "endColumn": 47,
-                        "endOffset": 6045
+                        "endOffset": 6069
                     }
                 }
             },
@@ -447,9 +447,9 @@
                     "position": {
                         "startLine": 93,
                         "startColumn": 4,
-                        "startOffset": 4965,
+                        "startOffset": 4989,
                         "endColumn": 67,
-                        "endOffset": 5028
+                        "endOffset": 5052
                     }
                 }
             },
@@ -466,9 +466,9 @@
                     "position": {
                         "startLine": 104,
                         "startColumn": 4,
-                        "startOffset": 5286,
+                        "startOffset": 5310,
                         "endColumn": 44,
-                        "endOffset": 5326
+                        "endOffset": 5350
                     }
                 }
             },
@@ -485,9 +485,9 @@
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1354,
+                        "startOffset": 1378,
                         "endColumn": 57,
-                        "endOffset": 1407
+                        "endOffset": 1431
                     }
                 }
             },
@@ -504,9 +504,9 @@
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
-                        "startOffset": 2597,
+                        "startOffset": 2621,
                         "endColumn": 59,
-                        "endOffset": 2652
+                        "endOffset": 2676
                     }
                 }
             },
@@ -523,9 +523,9 @@
                     "position": {
                         "startLine": 129,
                         "startColumn": 4,
-                        "startOffset": 6098,
+                        "startOffset": 6122,
                         "endColumn": 51,
-                        "endOffset": 6145
+                        "endOffset": 6169
                     }
                 }
             },
@@ -542,9 +542,9 @@
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 552,
+                        "startOffset": 576,
                         "endColumn": 71,
-                        "endOffset": 619
+                        "endOffset": 643
                     }
                 }
             },
@@ -561,9 +561,9 @@
                     "position": {
                         "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 5623,
+                        "startOffset": 5647,
                         "endColumn": 47,
-                        "endOffset": 5666
+                        "endOffset": 5690
                     }
                 }
             },
@@ -580,9 +580,9 @@
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
-                        "startOffset": 903,
+                        "startOffset": 927,
                         "endColumn": 51,
-                        "endOffset": 950
+                        "endOffset": 974
                     }
                 }
             },
@@ -599,9 +599,9 @@
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 956,
+                        "startOffset": 980,
                         "endColumn": 51,
-                        "endOffset": 1003
+                        "endOffset": 1027
                     }
                 }
             },
@@ -618,9 +618,9 @@
                     "position": {
                         "startLine": 151,
                         "startColumn": 4,
-                        "startOffset": 6723,
+                        "startOffset": 6747,
                         "endColumn": 43,
-                        "endOffset": 6762
+                        "endOffset": 6786
                     }
                 }
             },
@@ -637,9 +637,9 @@
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
-                        "startOffset": 2658,
+                        "startOffset": 2682,
                         "endColumn": 53,
-                        "endOffset": 2707
+                        "endOffset": 2731
                     }
                 }
             },
@@ -656,9 +656,9 @@
                     "position": {
                         "startLine": 82,
                         "startColumn": 4,
-                        "startOffset": 4631,
+                        "startOffset": 4655,
                         "endColumn": 70,
-                        "endOffset": 4697
+                        "endOffset": 4721
                     }
                 }
             },
@@ -675,9 +675,9 @@
                     "position": {
                         "startLine": 126,
                         "startColumn": 4,
-                        "startOffset": 5957,
+                        "startOffset": 5981,
                         "endColumn": 43,
-                        "endOffset": 5996
+                        "endOffset": 6020
                     }
                 }
             },
@@ -694,9 +694,9 @@
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
-                        "startOffset": 5672,
+                        "startOffset": 5696,
                         "endColumn": 51,
-                        "endOffset": 5719
+                        "endOffset": 5743
                     }
                 }
             },
@@ -713,9 +713,9 @@
                     "position": {
                         "startLine": 132,
                         "startColumn": 4,
-                        "startOffset": 6228,
+                        "startOffset": 6252,
                         "endColumn": 46,
-                        "endOffset": 6270
+                        "endOffset": 6294
                     }
                 }
             },
@@ -732,9 +732,9 @@
                     "position": {
                         "startLine": 114,
                         "startColumn": 4,
-                        "startOffset": 5574,
+                        "startOffset": 5598,
                         "endColumn": 47,
-                        "endOffset": 5617
+                        "endOffset": 5641
                     }
                 }
             },
@@ -751,9 +751,9 @@
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
-                        "startOffset": 4493,
+                        "startOffset": 4517,
                         "endColumn": 33,
-                        "endOffset": 4522
+                        "endOffset": 4546
                     }
                 }
             },
@@ -770,9 +770,9 @@
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 446,
+                        "startOffset": 470,
                         "endColumn": 51,
-                        "endOffset": 493
+                        "endOffset": 517
                     }
                 }
             },
@@ -789,9 +789,9 @@
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 499,
+                        "startOffset": 523,
                         "endColumn": 51,
-                        "endOffset": 546
+                        "endOffset": 570
                     }
                 }
             },
@@ -808,9 +808,9 @@
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 858,
+                        "startOffset": 882,
                         "endColumn": 43,
-                        "endOffset": 897
+                        "endOffset": 921
                     }
                 }
             },
@@ -827,9 +827,9 @@
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 690,
+                        "startOffset": 714,
                         "endColumn": 61,
-                        "endOffset": 747
+                        "endOffset": 771
                     }
                 }
             },
@@ -846,9 +846,9 @@
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
-                        "startOffset": 6051,
+                        "startOffset": 6075,
                         "endColumn": 45,
-                        "endOffset": 6092
+                        "endOffset": 6116
                     }
                 }
             },
@@ -865,9 +865,9 @@
                     "position": {
                         "startLine": 113,
                         "startColumn": 4,
-                        "startOffset": 5533,
+                        "startOffset": 5557,
                         "endColumn": 39,
-                        "endOffset": 5568
+                        "endOffset": 5592
                     }
                 }
             },
@@ -884,9 +884,9 @@
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
-                        "startOffset": 4571,
+                        "startOffset": 4595,
                         "endColumn": 58,
-                        "endOffset": 4625
+                        "endOffset": 4649
                     }
                 }
             },
@@ -903,9 +903,9 @@
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 753,
+                        "startOffset": 777,
                         "endColumn": 60,
-                        "endOffset": 809
+                        "endOffset": 833
                     }
                 }
             },
@@ -922,9 +922,9 @@
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1009,
+                        "startOffset": 1033,
                         "endColumn": 75,
-                        "endOffset": 1080
+                        "endOffset": 1104
                     }
                 }
             },
@@ -941,9 +941,9 @@
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 1086,
+                        "startOffset": 1110,
                         "endColumn": 75,
-                        "endOffset": 1157
+                        "endOffset": 1181
                     }
                 }
             },
@@ -960,9 +960,9 @@
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
-                        "startOffset": 1296,
+                        "startOffset": 1320,
                         "endColumn": 56,
-                        "endOffset": 1348
+                        "endOffset": 1372
                     }
                 }
             },
@@ -979,9 +979,9 @@
                     "position": {
                         "startLine": 117,
                         "startColumn": 4,
-                        "startOffset": 5725,
+                        "startOffset": 5749,
                         "endColumn": 48,
-                        "endOffset": 5769
+                        "endOffset": 5793
                     }
                 }
             },
@@ -998,9 +998,9 @@
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 625,
+                        "startOffset": 649,
                         "endColumn": 63,
-                        "endOffset": 684
+                        "endOffset": 708
                     }
                 }
             },
@@ -1017,9 +1017,9 @@
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 7398,
+                        "startOffset": 7422,
                         "endColumn": 45,
-                        "endOffset": 7439
+                        "endOffset": 7463
                     }
                 }
             },
@@ -1036,9 +1036,9 @@
                     "position": {
                         "startLine": 163,
                         "startColumn": 4,
-                        "startOffset": 7042,
+                        "startOffset": 7066,
                         "endColumn": 52,
-                        "endOffset": 7090
+                        "endOffset": 7114
                     }
                 }
             },
@@ -1047,8 +1047,8 @@
                     "startLine": 98,
                     "startColumn": 4,
                     "startOffset": 3825,
-                    "endColumn": 67,
-                    "endOffset": 3888
+                    "endColumn": 79,
+                    "endOffset": 3900
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
@@ -1056,8 +1056,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 59,
-                        "endColumn": 67,
-                        "endOffset": 122
+                        "endColumn": 79,
+                        "endOffset": 134
                     }
                 }
             },
@@ -1065,18 +1065,18 @@
                 "to": {
                     "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 3893,
+                    "startOffset": 3905,
                     "endColumn": 47,
-                    "endOffset": 3936
+                    "endOffset": 3948
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
-                        "startOffset": 7510,
+                        "startOffset": 7534,
                         "endColumn": 47,
-                        "endOffset": 7553
+                        "endOffset": 7577
                     }
                 }
             },
@@ -1084,18 +1084,18 @@
                 "to": {
                     "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 3941,
+                    "startOffset": 3953,
                     "endColumn": 70,
-                    "endOffset": 4007
+                    "endOffset": 4019
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
-                        "startOffset": 3245,
+                        "startOffset": 3269,
                         "endColumn": 79,
-                        "endOffset": 3320
+                        "endOffset": 3344
                     }
                 }
             },
@@ -1103,18 +1103,18 @@
                 "to": {
                     "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 4012,
+                    "startOffset": 4024,
                     "endColumn": 45,
-                    "endOffset": 4053
+                    "endOffset": 4065
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 76,
                         "startColumn": 4,
-                        "startOffset": 4325,
+                        "startOffset": 4349,
                         "endColumn": 45,
-                        "endOffset": 4366
+                        "endOffset": 4390
                     }
                 }
             },
@@ -1122,18 +1122,18 @@
                 "to": {
                     "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 4058,
+                    "startOffset": 4070,
                     "endColumn": 44,
-                    "endOffset": 4098
+                    "endOffset": 4110
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
-                        "startOffset": 4187,
+                        "startOffset": 4211,
                         "endColumn": 44,
-                        "endOffset": 4227
+                        "endOffset": 4251
                     }
                 }
             },
@@ -1141,18 +1141,18 @@
                 "to": {
                     "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 4103,
+                    "startOffset": 4115,
                     "endColumn": 45,
-                    "endOffset": 4144
+                    "endOffset": 4156
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1249,
+                        "startOffset": 1273,
                         "endColumn": 45,
-                        "endOffset": 1290
+                        "endOffset": 1314
                     }
                 }
             },
@@ -1160,18 +1160,18 @@
                 "to": {
                     "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 4149,
+                    "startOffset": 4161,
                     "endColumn": 39,
-                    "endOffset": 4184
+                    "endOffset": 4196
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
-                        "startOffset": 1948,
+                        "startOffset": 1972,
                         "endColumn": 39,
-                        "endOffset": 1983
+                        "endOffset": 2007
                     }
                 }
             },
@@ -1179,18 +1179,18 @@
                 "to": {
                     "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 4189,
+                    "startOffset": 4201,
                     "endColumn": 55,
-                    "endOffset": 4240
+                    "endOffset": 4252
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 72,
                         "startColumn": 4,
-                        "startOffset": 4130,
+                        "startOffset": 4154,
                         "endColumn": 55,
-                        "endOffset": 4181
+                        "endOffset": 4205
                     }
                 }
             },
@@ -1198,18 +1198,18 @@
                 "to": {
                     "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 4245,
+                    "startOffset": 4257,
                     "endColumn": 51,
-                    "endOffset": 4292
+                    "endOffset": 4304
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
-                        "startOffset": 4018,
+                        "startOffset": 4042,
                         "endColumn": 51,
-                        "endOffset": 4065
+                        "endOffset": 4089
                     }
                 }
             },
@@ -1217,18 +1217,18 @@
                 "to": {
                     "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 4297,
+                    "startOffset": 4309,
                     "endColumn": 57,
-                    "endOffset": 4350
+                    "endOffset": 4362
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
-                        "startOffset": 4071,
+                        "startOffset": 4095,
                         "endColumn": 57,
-                        "endOffset": 4124
+                        "endOffset": 4148
                     }
                 }
             },
@@ -1236,18 +1236,18 @@
                 "to": {
                     "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 4355,
+                    "startOffset": 4367,
                     "endColumn": 80,
-                    "endOffset": 4431
+                    "endOffset": 4443
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 3326,
+                        "startOffset": 3350,
                         "endColumn": 89,
-                        "endOffset": 3411
+                        "endOffset": 3435
                     }
                 }
             },
@@ -1255,18 +1255,18 @@
                 "to": {
                     "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 4436,
+                    "startOffset": 4448,
                     "endColumn": 62,
-                    "endOffset": 4494
+                    "endOffset": 4506
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 177,
+                        "startOffset": 189,
                         "endColumn": 62,
-                        "endOffset": 235
+                        "endOffset": 247
                     }
                 }
             },
@@ -1274,18 +1274,18 @@
                 "to": {
                     "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 4499,
+                    "startOffset": 4511,
                     "endColumn": 77,
-                    "endOffset": 4572
+                    "endOffset": 4584
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 367,
+                        "startOffset": 391,
                         "endColumn": 77,
-                        "endOffset": 440
+                        "endOffset": 464
                     }
                 }
             },
@@ -1293,18 +1293,18 @@
                 "to": {
                     "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 4577,
-                    "endColumn": 71,
-                    "endOffset": 4644
+                    "startOffset": 4589,
+                    "endColumn": 83,
+                    "endOffset": 4668
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 241,
-                        "endColumn": 71,
-                        "endOffset": 308
+                        "startOffset": 253,
+                        "endColumn": 83,
+                        "endOffset": 332
                     }
                 }
             },
@@ -1312,20 +1312,20 @@
                 "to": {
                     "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 4649,
+                    "startOffset": 4673,
                     "endLine": 113,
                     "endColumn": 17,
-                    "endOffset": 4695
+                    "endOffset": 4719
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 314,
+                        "startOffset": 338,
                         "endLine": 10,
                         "endColumn": 17,
-                        "endOffset": 361
+                        "endOffset": 385
                     }
                 }
             },
@@ -1333,18 +1333,18 @@
                 "to": {
                     "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 4700,
+                    "startOffset": 4724,
                     "endColumn": 80,
-                    "endOffset": 4776
+                    "endOffset": 4800
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 66,
                         "startColumn": 4,
-                        "startOffset": 3674,
+                        "startOffset": 3698,
                         "endColumn": 89,
-                        "endOffset": 3759
+                        "endOffset": 3783
                     }
                 }
             },
@@ -1352,18 +1352,18 @@
                 "to": {
                     "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 4781,
+                    "startOffset": 4805,
                     "endColumn": 72,
-                    "endOffset": 4849
+                    "endOffset": 4873
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
-                        "startOffset": 4419,
+                        "startOffset": 4443,
                         "endColumn": 72,
-                        "endOffset": 4487
+                        "endOffset": 4511
                     }
                 }
             },
@@ -1371,18 +1371,18 @@
                 "to": {
                     "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 4854,
+                    "startOffset": 4878,
                     "endColumn": 72,
-                    "endOffset": 4922
+                    "endOffset": 4946
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
-                        "startOffset": 2760,
+                        "startOffset": 2784,
                         "endColumn": 72,
-                        "endOffset": 2828
+                        "endOffset": 2852
                     }
                 }
             },
@@ -1390,18 +1390,18 @@
                 "to": {
                     "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 4927,
+                    "startOffset": 4951,
                     "endColumn": 63,
-                    "endOffset": 4986
+                    "endOffset": 5010
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 1479,
+                        "startOffset": 1503,
                         "endColumn": 63,
-                        "endOffset": 1538
+                        "endOffset": 1562
                     }
                 }
             },
@@ -1409,18 +1409,18 @@
                 "to": {
                     "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 4991,
+                    "startOffset": 5015,
                     "endColumn": 64,
-                    "endOffset": 5051
+                    "endOffset": 5075
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
-                        "startOffset": 1413,
+                        "startOffset": 1437,
                         "endColumn": 64,
-                        "endOffset": 1473
+                        "endOffset": 1497
                     }
                 }
             },
@@ -1428,18 +1428,18 @@
                 "to": {
                     "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 5056,
+                    "startOffset": 5080,
                     "endColumn": 73,
-                    "endOffset": 5125
+                    "endOffset": 5149
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
-                        "startOffset": 1836,
+                        "startOffset": 1860,
                         "endColumn": 73,
-                        "endOffset": 1905
+                        "endOffset": 1929
                     }
                 }
             },
@@ -1447,18 +1447,18 @@
                 "to": {
                     "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 5130,
+                    "startOffset": 5154,
                     "endColumn": 88,
-                    "endOffset": 5214
+                    "endOffset": 5238
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
-                        "startOffset": 2379,
+                        "startOffset": 2403,
                         "endColumn": 88,
-                        "endOffset": 2463
+                        "endOffset": 2487
                     }
                 }
             },
@@ -1466,18 +1466,18 @@
                 "to": {
                     "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 5219,
+                    "startOffset": 5243,
                     "endColumn": 71,
-                    "endOffset": 5286
+                    "endOffset": 5310
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 1615,
+                        "startOffset": 1639,
                         "endColumn": 71,
-                        "endOffset": 1682
+                        "endOffset": 1706
                     }
                 }
             },
@@ -1485,18 +1485,18 @@
                 "to": {
                     "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 5291,
+                    "startOffset": 5315,
                     "endColumn": 66,
-                    "endOffset": 5353
+                    "endOffset": 5377
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
-                        "startOffset": 2120,
+                        "startOffset": 2144,
                         "endColumn": 66,
-                        "endOffset": 2182
+                        "endOffset": 2206
                     }
                 }
             },
@@ -1504,18 +1504,18 @@
                 "to": {
                     "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 5358,
+                    "startOffset": 5382,
                     "endColumn": 58,
-                    "endOffset": 5412
+                    "endOffset": 5436
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 2934,
+                        "startOffset": 2958,
                         "endColumn": 58,
-                        "endOffset": 2988
+                        "endOffset": 3012
                     }
                 }
             },
@@ -1523,18 +1523,18 @@
                 "to": {
                     "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 5417,
+                    "startOffset": 5441,
                     "endColumn": 70,
-                    "endOffset": 5483
+                    "endOffset": 5507
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
-                        "startOffset": 1688,
+                        "startOffset": 1712,
                         "endColumn": 70,
-                        "endOffset": 1754
+                        "endOffset": 1778
                     }
                 }
             },
@@ -1542,18 +1542,18 @@
                 "to": {
                     "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 5488,
+                    "startOffset": 5512,
                     "endColumn": 70,
-                    "endOffset": 5554
+                    "endOffset": 5578
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
-                        "startOffset": 2266,
+                        "startOffset": 2290,
                         "endColumn": 70,
-                        "endOffset": 2332
+                        "endOffset": 2356
                     }
                 }
             },
@@ -1561,18 +1561,18 @@
                 "to": {
                     "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 5559,
+                    "startOffset": 5583,
                     "endColumn": 69,
-                    "endOffset": 5624
+                    "endOffset": 5648
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1544,
+                        "startOffset": 1568,
                         "endColumn": 69,
-                        "endOffset": 1609
+                        "endOffset": 1633
                     }
                 }
             },
@@ -1580,18 +1580,18 @@
                 "to": {
                     "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 5629,
+                    "startOffset": 5653,
                     "endColumn": 70,
-                    "endOffset": 5695
+                    "endOffset": 5719
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
-                        "startOffset": 7559,
+                        "startOffset": 7583,
                         "endColumn": 70,
-                        "endOffset": 7625
+                        "endOffset": 7649
                     }
                 }
             },
@@ -1599,18 +1599,18 @@
                 "to": {
                     "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 5700,
+                    "startOffset": 5724,
                     "endColumn": 74,
-                    "endOffset": 5770
+                    "endOffset": 5794
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 1760,
+                        "startOffset": 1784,
                         "endColumn": 74,
-                        "endOffset": 1830
+                        "endOffset": 1854
                     }
                 }
             },
@@ -1618,18 +1618,18 @@
                 "to": {
                     "startLine": 129,
                     "startColumn": 4,
-                    "startOffset": 5775,
+                    "startOffset": 5799,
                     "endColumn": 43,
-                    "endOffset": 5814
+                    "endOffset": 5838
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
-                        "startOffset": 7751,
+                        "startOffset": 7775,
                         "endColumn": 43,
-                        "endOffset": 7790
+                        "endOffset": 7814
                     }
                 }
             },
@@ -1637,18 +1637,18 @@
                 "to": {
                     "startLine": 130,
                     "startColumn": 4,
-                    "startOffset": 5819,
+                    "startOffset": 5843,
                     "endColumn": 47,
-                    "endOffset": 5862
+                    "endOffset": 5886
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 2994,
+                        "startOffset": 3018,
                         "endColumn": 47,
-                        "endOffset": 3037
+                        "endOffset": 3061
                     }
                 }
             },
@@ -1656,18 +1656,18 @@
                 "to": {
                     "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 5867,
+                    "startOffset": 5891,
                     "endColumn": 45,
-                    "endOffset": 5908
+                    "endOffset": 5932
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
-                        "startOffset": 4278,
+                        "startOffset": 4302,
                         "endColumn": 45,
-                        "endOffset": 4319
+                        "endOffset": 4343
                     }
                 }
             },
@@ -1675,18 +1675,18 @@
                 "to": {
                     "startLine": 132,
                     "startColumn": 4,
-                    "startOffset": 5913,
+                    "startOffset": 5937,
                     "endColumn": 52,
-                    "endOffset": 5961
+                    "endOffset": 5985
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
-                        "startOffset": 7096,
+                        "startOffset": 7120,
                         "endColumn": 52,
-                        "endOffset": 7144
+                        "endOffset": 7168
                     }
                 }
             },
@@ -1694,18 +1694,18 @@
                 "to": {
                     "startLine": 133,
                     "startColumn": 4,
-                    "startOffset": 5966,
+                    "startOffset": 5990,
                     "endColumn": 74,
-                    "endOffset": 6036
+                    "endOffset": 6060
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
-                        "startOffset": 3081,
+                        "startOffset": 3105,
                         "endColumn": 83,
-                        "endOffset": 3160
+                        "endOffset": 3184
                     }
                 }
             },
@@ -1713,18 +1713,18 @@
                 "to": {
                     "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 6041,
+                    "startOffset": 6065,
                     "endColumn": 47,
-                    "endOffset": 6084
+                    "endOffset": 6108
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 1989,
+                        "startOffset": 2013,
                         "endColumn": 47,
-                        "endOffset": 2032
+                        "endOffset": 2056
                     }
                 }
             },
@@ -1732,18 +1732,18 @@
                 "to": {
                     "startLine": 135,
                     "startColumn": 4,
-                    "startOffset": 6089,
+                    "startOffset": 6113,
                     "endColumn": 37,
-                    "endOffset": 6122
+                    "endOffset": 6146
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
-                        "startOffset": 2227,
+                        "startOffset": 2251,
                         "endColumn": 37,
-                        "endOffset": 2260
+                        "endOffset": 2284
                     }
                 }
             },
@@ -1751,18 +1751,18 @@
                 "to": {
                     "startLine": 136,
                     "startColumn": 4,
-                    "startOffset": 6127,
+                    "startOffset": 6151,
                     "endColumn": 79,
-                    "endOffset": 6202
+                    "endOffset": 6226
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 3417,
+                        "startOffset": 3441,
                         "endColumn": 91,
-                        "endOffset": 3504
+                        "endOffset": 3528
                     }
                 }
             },
@@ -1770,18 +1770,18 @@
                 "to": {
                     "startLine": 137,
                     "startColumn": 4,
-                    "startOffset": 6207,
+                    "startOffset": 6231,
                     "endColumn": 45,
-                    "endOffset": 6248
+                    "endOffset": 6272
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
-                        "startOffset": 2887,
+                        "startOffset": 2911,
                         "endColumn": 45,
-                        "endOffset": 2928
+                        "endOffset": 2952
                     }
                 }
             },
@@ -1789,18 +1789,18 @@
                 "to": {
                     "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 6253,
+                    "startOffset": 6277,
                     "endColumn": 63,
-                    "endOffset": 6312
+                    "endOffset": 6336
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
-                        "startOffset": 7796,
+                        "startOffset": 7820,
                         "endColumn": 63,
-                        "endOffset": 7855
+                        "endOffset": 7879
                     }
                 }
             },
@@ -1808,18 +1808,18 @@
                 "to": {
                     "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 6317,
+                    "startOffset": 6341,
                     "endColumn": 40,
-                    "endOffset": 6353
+                    "endOffset": 6377
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 131,
                         "startColumn": 4,
-                        "startOffset": 6186,
+                        "startOffset": 6210,
                         "endColumn": 40,
-                        "endOffset": 6222
+                        "endOffset": 6246
                     }
                 }
             },
@@ -1827,18 +1827,18 @@
                 "to": {
                     "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 6358,
+                    "startOffset": 6382,
                     "endColumn": 37,
-                    "endOffset": 6391
+                    "endOffset": 6415
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 49,
                         "startColumn": 4,
-                        "startOffset": 2558,
+                        "startOffset": 2582,
                         "endColumn": 37,
-                        "endOffset": 2591
+                        "endOffset": 2615
                     }
                 }
             },
@@ -1846,18 +1846,18 @@
                 "to": {
                     "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 6396,
+                    "startOffset": 6420,
                     "endColumn": 61,
-                    "endOffset": 6453
+                    "endOffset": 6477
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
-                        "startOffset": 4703,
+                        "startOffset": 4727,
                         "endColumn": 61,
-                        "endOffset": 4760
+                        "endOffset": 4784
                     }
                 }
             },
@@ -1865,18 +1865,18 @@
                 "to": {
                     "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 6458,
+                    "startOffset": 6482,
                     "endColumn": 45,
-                    "endOffset": 6499
+                    "endOffset": 6523
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 2713,
+                        "startOffset": 2737,
                         "endColumn": 45,
-                        "endOffset": 2754
+                        "endOffset": 2778
                     }
                 }
             },
@@ -1884,18 +1884,18 @@
                 "to": {
                     "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 6504,
+                    "startOffset": 6528,
                     "endColumn": 37,
-                    "endOffset": 6537
+                    "endOffset": 6561
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
-                        "startOffset": 7670,
+                        "startOffset": 7694,
                         "endColumn": 37,
-                        "endOffset": 7703
+                        "endOffset": 7727
                     }
                 }
             },
@@ -1903,18 +1903,18 @@
                 "to": {
                     "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 6542,
+                    "startOffset": 6566,
                     "endColumn": 34,
-                    "endOffset": 6572
+                    "endOffset": 6596
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
-                        "startOffset": 7631,
+                        "startOffset": 7655,
                         "endColumn": 37,
-                        "endOffset": 7664
+                        "endOffset": 7688
                     }
                 }
             },
@@ -1922,18 +1922,18 @@
                 "to": {
                     "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 6577,
+                    "startOffset": 6601,
                     "endColumn": 76,
-                    "endOffset": 6649
+                    "endOffset": 6673
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 64,
                         "startColumn": 4,
-                        "startOffset": 3510,
+                        "startOffset": 3534,
                         "endColumn": 85,
-                        "endOffset": 3591
+                        "endOffset": 3615
                     }
                 }
             },
@@ -1941,18 +1941,18 @@
                 "to": {
                     "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 6654,
+                    "startOffset": 6678,
                     "endColumn": 33,
-                    "endOffset": 6683
+                    "endOffset": 6707
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 130,
                         "startColumn": 4,
-                        "startOffset": 6151,
+                        "startOffset": 6175,
                         "endColumn": 33,
-                        "endOffset": 6180
+                        "endOffset": 6204
                     }
                 }
             },
@@ -1960,18 +1960,18 @@
                 "to": {
                     "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 6688,
+                    "startOffset": 6712,
                     "endColumn": 43,
-                    "endOffset": 6727
+                    "endOffset": 6751
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 74,
                         "startColumn": 4,
-                        "startOffset": 4233,
+                        "startOffset": 4257,
                         "endColumn": 43,
-                        "endOffset": 4272
+                        "endOffset": 4296
                     }
                 }
             },
@@ -1979,18 +1979,18 @@
                 "to": {
                     "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 6732,
+                    "startOffset": 6756,
                     "endColumn": 40,
-                    "endOffset": 6768
+                    "endOffset": 6792
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 7709,
+                        "startOffset": 7733,
                         "endColumn": 40,
-                        "endOffset": 7745
+                        "endOffset": 7769
                     }
                 }
             },
@@ -1998,18 +1998,18 @@
                 "to": {
                     "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 6773,
+                    "startOffset": 6797,
                     "endColumn": 68,
-                    "endOffset": 6837
+                    "endOffset": 6861
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
-                        "startOffset": 3765,
+                        "startOffset": 3789,
                         "endColumn": 77,
-                        "endOffset": 3838
+                        "endOffset": 3862
                     }
                 }
             },
@@ -2017,18 +2017,18 @@
                 "to": {
                     "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 6842,
+                    "startOffset": 6866,
                     "endColumn": 41,
-                    "endOffset": 6879
+                    "endOffset": 6903
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
-                        "startOffset": 2038,
+                        "startOffset": 2062,
                         "endColumn": 41,
-                        "endOffset": 2075
+                        "endOffset": 2099
                     }
                 }
             },
@@ -2036,18 +2036,18 @@
                 "to": {
                     "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 6884,
+                    "startOffset": 6908,
                     "endColumn": 39,
-                    "endOffset": 6919
+                    "endOffset": 6943
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 45,
                         "startColumn": 4,
-                        "startOffset": 2338,
+                        "startOffset": 2362,
                         "endColumn": 39,
-                        "endOffset": 2373
+                        "endOffset": 2397
                     }
                 }
             },
@@ -2055,18 +2055,18 @@
                 "to": {
                     "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 6924,
+                    "startOffset": 6948,
                     "endColumn": 37,
-                    "endOffset": 6957
+                    "endOffset": 6981
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
-                        "startOffset": 2519,
+                        "startOffset": 2543,
                         "endColumn": 37,
-                        "endOffset": 2552
+                        "endOffset": 2576
                     }
                 }
             },
@@ -2074,18 +2074,18 @@
                 "to": {
                     "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 6962,
+                    "startOffset": 6986,
                     "endColumn": 51,
-                    "endOffset": 7009
+                    "endOffset": 7033
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
-                        "startOffset": 5233,
+                        "startOffset": 5257,
                         "endColumn": 51,
-                        "endOffset": 5280
+                        "endOffset": 5304
                     }
                 }
             },
@@ -2093,18 +2093,18 @@
                 "to": {
                     "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 7014,
+                    "startOffset": 7038,
                     "endColumn": 78,
-                    "endOffset": 7088
+                    "endOffset": 7112
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 68,
                         "startColumn": 4,
-                        "startOffset": 3844,
+                        "startOffset": 3868,
                         "endColumn": 87,
-                        "endOffset": 3927
+                        "endOffset": 3951
                     }
                 }
             },
@@ -2112,18 +2112,18 @@
                 "to": {
                     "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 7093,
+                    "startOffset": 7117,
                     "endColumn": 48,
-                    "endOffset": 7137
+                    "endOffset": 7161
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
-                        "startOffset": 2469,
+                        "startOffset": 2493,
                         "endColumn": 48,
-                        "endOffset": 2513
+                        "endOffset": 2537
                     }
                 }
             },
@@ -2131,18 +2131,18 @@
                 "to": {
                     "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 7142,
+                    "startOffset": 7166,
                     "endColumn": 37,
-                    "endOffset": 7175
+                    "endOffset": 7199
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 2081,
+                        "startOffset": 2105,
                         "endColumn": 37,
-                        "endOffset": 2114
+                        "endOffset": 2138
                     }
                 }
             },
@@ -2150,18 +2150,18 @@
                 "to": {
                     "startLine": 157,
                     "startColumn": 4,
-                    "startOffset": 7180,
+                    "startOffset": 7204,
                     "endColumn": 63,
-                    "endOffset": 7239
+                    "endOffset": 7263
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
-                        "startOffset": 7445,
+                        "startOffset": 7469,
                         "endColumn": 63,
-                        "endOffset": 7504
+                        "endOffset": 7528
                     }
                 }
             },
@@ -2169,18 +2169,18 @@
                 "to": {
                     "startLine": 158,
                     "startColumn": 4,
-                    "startOffset": 7244,
+                    "startOffset": 7268,
                     "endColumn": 61,
-                    "endOffset": 7301
+                    "endOffset": 7325
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 165,
                         "startColumn": 4,
-                        "startOffset": 7150,
+                        "startOffset": 7174,
                         "endColumn": 61,
-                        "endOffset": 7207
+                        "endOffset": 7231
                     }
                 }
             },
@@ -2188,18 +2188,18 @@
                 "to": {
                     "startLine": 159,
                     "startColumn": 4,
-                    "startOffset": 7306,
+                    "startOffset": 7330,
                     "endColumn": 61,
-                    "endOffset": 7363
+                    "endOffset": 7387
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
-                        "startOffset": 7335,
+                        "startOffset": 7359,
                         "endColumn": 61,
-                        "endOffset": 7392
+                        "endOffset": 7416
                     }
                 }
             },
@@ -2207,18 +2207,18 @@
                 "to": {
                     "startLine": 160,
                     "startColumn": 4,
-                    "startOffset": 7368,
+                    "startOffset": 7392,
                     "endColumn": 60,
-                    "endOffset": 7424
+                    "endOffset": 7448
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 7213,
+                        "startOffset": 7237,
                         "endColumn": 60,
-                        "endOffset": 7269
+                        "endOffset": 7293
                     }
                 }
             },
@@ -2226,18 +2226,18 @@
                 "to": {
                     "startLine": 161,
                     "startColumn": 4,
-                    "startOffset": 7429,
+                    "startOffset": 7453,
                     "endColumn": 65,
-                    "endOffset": 7490
+                    "endOffset": 7514
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
-                        "startOffset": 6975,
+                        "startOffset": 6999,
                         "endColumn": 65,
-                        "endOffset": 7036
+                        "endOffset": 7060
                     }
                 }
             },
@@ -2245,18 +2245,18 @@
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 7495,
+                    "startOffset": 7519,
                     "endColumn": 58,
-                    "endOffset": 7549
+                    "endOffset": 7573
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 167,
                         "startColumn": 4,
-                        "startOffset": 7275,
+                        "startOffset": 7299,
                         "endColumn": 58,
-                        "endOffset": 7329
+                        "endOffset": 7353
                     }
                 }
             },
@@ -2264,18 +2264,18 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 7554,
+                    "startOffset": 7578,
                     "endColumn": 68,
-                    "endOffset": 7618
+                    "endOffset": 7642
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 3166,
+                        "startOffset": 3190,
                         "endColumn": 77,
-                        "endOffset": 3239
+                        "endOffset": 3263
                     }
                 }
             },
@@ -2283,18 +2283,18 @@
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 7623,
+                    "startOffset": 7647,
                     "endColumn": 74,
-                    "endOffset": 7693
+                    "endOffset": 7717
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 69,
                         "startColumn": 4,
-                        "startOffset": 3933,
+                        "startOffset": 3957,
                         "endColumn": 83,
-                        "endOffset": 4012
+                        "endOffset": 4036
                     }
                 }
             },
@@ -2302,18 +2302,18 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 7698,
+                    "startOffset": 7722,
                     "endColumn": 37,
-                    "endOffset": 7731
+                    "endOffset": 7755
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 2188,
+                        "startOffset": 2212,
                         "endColumn": 37,
-                        "endOffset": 2221
+                        "endOffset": 2245
                     }
                 }
             },
@@ -2321,18 +2321,18 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 7736,
+                    "startOffset": 7760,
                     "endColumn": 66,
-                    "endOffset": 7798
+                    "endOffset": 7822
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 65,
                         "startColumn": 4,
-                        "startOffset": 3597,
+                        "startOffset": 3621,
                         "endColumn": 75,
-                        "endOffset": 3668
+                        "endOffset": 3692
                     }
                 }
             },
@@ -2340,18 +2340,18 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 7803,
+                    "startOffset": 7827,
                     "endColumn": 35,
-                    "endOffset": 7834
+                    "endOffset": 7858
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 1911,
+                        "startOffset": 1935,
                         "endColumn": 35,
-                        "endOffset": 1942
+                        "endOffset": 1966
                     }
                 }
             },
@@ -2359,18 +2359,18 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 7839,
+                    "startOffset": 7863,
                     "endColumn": 45,
-                    "endOffset": 7880
+                    "endOffset": 7904
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
-                        "startOffset": 4372,
+                        "startOffset": 4396,
                         "endColumn": 45,
-                        "endOffset": 4413
+                        "endOffset": 4437
                     }
                 }
             },
@@ -2378,18 +2378,18 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 7885,
+                    "startOffset": 7909,
                     "endColumn": 36,
-                    "endOffset": 7917
+                    "endOffset": 7941
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3043,
+                        "startOffset": 3067,
                         "endColumn": 36,
-                        "endOffset": 3075
+                        "endOffset": 3099
                     }
                 }
             },
@@ -2397,10 +2397,10 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 7922,
+                    "startOffset": 7946,
                     "endLine": 176,
                     "endColumn": 12,
-                    "endOffset": 8208
+                    "endOffset": 8232
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\styles.xml",
@@ -2418,10 +2418,10 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 8213,
+                    "startOffset": 8237,
                     "endLine": 179,
                     "endColumn": 12,
-                    "endOffset": 8368
+                    "endOffset": 8392
                 },
                 "from": {
                     "file": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\values\\styles.xml",
