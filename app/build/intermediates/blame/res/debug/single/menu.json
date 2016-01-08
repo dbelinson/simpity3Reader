@@ -1,30 +1,30 @@
 [
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\main.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tocview.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\tocview.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data_view.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\data_view.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\split_panel.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\split_panel.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_view.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\book_view.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\book_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\book_view.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio_view.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\audio_view.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\audio_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\audio_view.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\split_panel.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\split_panel.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_chooser.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\file_chooser.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\tocview.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\tocview.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\main.xml"
     },
     {
-        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\build\\intermediates\\res\\merged\\debug\\menu\\file_chooser.xml",
-        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\epub3reader-master\\epub3reader-master\\EPUB3Reader\\app\\src\\main\\res\\menu\\file_chooser.xml"
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\menu\\data_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\menu\\data_view.xml"
     }
 ]

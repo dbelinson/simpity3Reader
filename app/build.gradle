@@ -1,20 +1,30 @@
 apply plugin: 'com.android.application'
 
 android {
+    signingConfigs {
+        config {
+            keyAlias 'Tom6Pushkin'
+            keyPassword 'd030476b'
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/PushkinTom6.jks')
+            storePassword 'd030476b'
+        }
+    }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
-
     defaultConfig {
-        applicationId "it.angrydroids.epub3reader"
+        applicationId 'com.simpity.pushkin.vol6'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
     }
-
     buildTypes {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            signingConfig signingConfigs.config
+        }
+        debug {
+            signingConfig signingConfigs.config
         }
     }
     sourceSets {
@@ -22,6 +32,8 @@ android {
             assets.srcDirs = ['src/main/assets', 'src/main/assets/']
             res.srcDirs = ['src/main/res', 'src/main/res/book']
         }
+    }
+    productFlavors {
     }
 }
 

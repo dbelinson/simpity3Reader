@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\dbelinson\AndroidStudioProjects\epub3reader-master\epub3reader-master\EPUB3Reader\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\debug\jniLibs"/></dataSet></merger>
