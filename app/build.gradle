@@ -1,25 +1,41 @@
 apply plugin: 'com.android.application'
 
 android {
-
+    signingConfigs {
+        config {
+            keyAlias 'pikavaiadama_pushkin'
+            keyPassword 'd030476b'
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/PikavaiaDama.jks')
+            storePassword 'd030476b'
+        }
+    }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId "com.simpity.pushkin.pikovaiaDama"
+        applicationId 'com.simpity.pushkin.pikovaiaDama'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
-        versionCode 3
-        versionName "2.1"
+        versionCode 4
+        versionName '3.1'
+        signingConfig signingConfigs.config
     }
-
     sourceSets {
         main {
             assets.srcDirs = ['src/main/assets', 'src/main/assets/']
             res.srcDirs = ['src/main/res', 'src/main/res/book']
         }
     }
-
+    buildTypes {
+        debug {
+            signingConfig signingConfigs.config
+        }
+        release {
+            signingConfig signingConfigs.config
+        }
+    }
+    productFlavors {
+    }
 }
 dependencies {
     compile 'com.android.support:support-v4:19.1.0'

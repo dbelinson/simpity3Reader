@@ -56,7 +56,7 @@ public class FileChooser extends Activity {
 
 		if ((epubs == null) || (epubs.size() == 0)) {
 			epubs = epubList(new File(Environment.getExternalStorageDirectory()
-					+ "/epubtemp/"));
+					+ "/epubtempA/"));
 
 		}
 
@@ -127,7 +127,7 @@ public class FileChooser extends Activity {
 	private void refreshList() {
 		//epubs = epubList(Environment.getExternalStorageDirectory());
 		epubs = epubList(new File(Environment.getExternalStorageDirectory()
-				+ "/epubtemp/"));
+				+ "/epubtempA/"));
 		names.clear();
 		names.addAll(fileNames(epubs));
 		this.adapter.notifyDataSetChanged();
