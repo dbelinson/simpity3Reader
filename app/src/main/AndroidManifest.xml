@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simpity.pushkin.vol6"
+    package="com.simpity.pushkin.barisna"
     android:versionCode="1"
     android:versionName="1.1" >
 
@@ -17,7 +17,7 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.simpity.pushkin.vol6.MainActivity"
+            android:name="com.simpity.pushkin.barisna.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -25,18 +25,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.simpity.pushkin.vol6.FileChooser" >
+        <activity android:name="com.simpity.pushkin.barisna.FileChooser" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol6.BookView"
+            android:name="com.simpity.pushkin.barisna.BookView"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol6.DataView"
+            android:name="com.simpity.pushkin.barisna.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name="com.simpity.pushkin.vol6.AudioView"
+            android:name="com.simpity.pushkin.barisna.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
 

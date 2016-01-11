@@ -3,16 +3,16 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'Tom6Pushkin'
+            keyAlias 'Barisnia'
             keyPassword 'd030476b'
-            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/PushkinTom6.jks')
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/barisnia.jks')
             storePassword 'd030476b'
         }
     }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId 'com.simpity.pushkin.vol6'
+        applicationId 'com.simpity.pushkin.barisna'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23
