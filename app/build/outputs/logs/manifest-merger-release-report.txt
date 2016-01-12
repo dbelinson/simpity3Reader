@@ -2,7 +2,7 @@
 manifest
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:2:1-45:12
 	package
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:3:5-49
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:3:5-53
 		INJECTED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml
 	android:versionName
@@ -46,12 +46,12 @@ ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\And
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:16:9-45
 	android:theme
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:18:9-40
-activity#com.simpity.pushkin.PovestiBelkina.MainActivity
+activity#com.simpity.pushkin.Kavkazskiipliennik.MainActivity
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:19:9-27:20
 	android:label
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:21:13-45
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:20:13-75
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:20:13-79
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
@@ -62,25 +62,25 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:25:27-74
-activity#com.simpity.pushkin.PovestiBelkina.FileChooser
+activity#com.simpity.pushkin.Kavkazskiipliennik.FileChooser
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:28:9-29:20
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:28:19-80
-activity#com.simpity.pushkin.PovestiBelkina.BookView
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:28:19-84
+activity#com.simpity.pushkin.Kavkazskiipliennik.BookView
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:30:9-33:20
 	android:label
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:32:13-61
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:31:13-71
-activity#com.simpity.pushkin.PovestiBelkina.DataView
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:31:13-75
+activity#com.simpity.pushkin.Kavkazskiipliennik.DataView
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:34:9-37:20
 	android:label
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:36:13-61
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:35:13-71
-activity#com.simpity.pushkin.PovestiBelkina.AudioView
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:35:13-75
+activity#com.simpity.pushkin.Kavkazskiipliennik.AudioView
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:38:9-41:20
 	android:label
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:40:13-62
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:39:13-72
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\src\main\AndroidManifest.xml:39:13-76
