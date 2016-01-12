@@ -3,16 +3,16 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'SkazkiPushkina'
+            keyAlias 'PovestiBelkina'
             keyPassword 'd030476b'
-            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/SkazkiPushkina.jks')
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/PovestiBelkina.jks')
             storePassword 'd030476b'
         }
     }
     compileSdkVersion 19
     buildToolsVersion '19.1.0'
     defaultConfig {
-        applicationId 'com.simpity.pushkin.SkazkiPushkina'
+        applicationId 'com.simpity.pushkin.PovestiBelkina'
         minSdkVersion 13
         targetSdkVersion 19
         maxSdkVersion 23

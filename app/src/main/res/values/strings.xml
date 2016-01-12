@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Сказки  А.С.Пушкина </string>
+    <string name="app_name">Повести Белкина А.С.Пушкин</string>
 
 
     <color name="dark_grey">#696969</color>
     <string name="copyright1">Copyright (c) 2010-2016</string>
-    <string name="description1">Сказки Пушкина</string>
+    <string name="description1">Повести Белкина А.С.Пушкин</string>
     <string name="description2"></string>
     <string name="copyright2">Professional Software Associates, Inc.</string>
     <string name="Open_Book_1">Open Book 1</string>
