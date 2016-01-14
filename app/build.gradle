@@ -1,5 +1,5 @@
 apply plugin: 'com.android.application'
-
+apply plugin: 'com.google.gms.google-services'
 android {
     signingConfigs {
         config {
@@ -38,6 +38,8 @@ android {
 }
 
 dependencies {
+    compile 'com.google.android.gms:play-services:7.0.0'
+    compile 'com.google.android.gms:play-services-analytics:7.0.0'
     compile 'com.android.support:support-v4:19.1.0'
     compile files('libs/epublib-core-latest.jar')
     compile files('libs/slf4j-android-1.6.1-RC1.jar')

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_data_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_data_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\set_panel_size.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\set_panel_size.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_audio_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_audio_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_book_view.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_book_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_split_panel.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\activity_split_panel.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\change_css.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\change_css.xml"
+    },
+    {
+        "merged": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\build\\intermediates\\res\\merged\\debug\\layout\\file_chooser_layout.xml",
+        "source": "C:\\Users\\dbelinson\\AndroidStudioProjects\\PushkinBook\\app\\src\\main\\res\\layout\\file_chooser_layout.xml"
+    }
+]
