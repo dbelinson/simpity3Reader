@@ -2,25 +2,46 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\libs\epublib-core-latest.jar"
+        jar="C:\Users\Dmitrij\StudioProjects\simpityReader\app\libs\epublib-core-latest.jar"
         jumboMode="false"
-        revision="19.1.0"
+        revision="23.0.0"
         sha1="ca916295c8af907b0c2d877b5f3a392e5ceb80ea">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\epublib-core-latest_468ac91ad4bb80c2242bbe774d251b25c09213f1.jar" />
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\epublib-core-latest_98f8f290a2d595758104ad6251564d85723547ad.jar" />
     </item>
     <item
-        jar="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jar="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="false"
-        revision="19.1.0"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_4ec6be744c097b34b4ffb5a36650ab9c6a47dc47.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.0_5d41c9b440d9f35f6aef52626e7026a9b558b438.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dmitrij\StudioProjects\simpityReader\app\libs\slf4j-android-1.6.1-RC1.jar"
+        jumboMode="false"
+        revision="23.0.0"
         sha1="a0b527e8aabcc1f1e97d1674dc3f4f0794ec5df1">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\slf4j-android-1.6.1-RC1_64c0a94e12f9c8b00e61573729f4727f7073cc19.jar" />
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\slf4j-android-1.6.1-RC1_df5cb38dc303fe41e20e6bff2056c3f88bab15b3.jar" />
     </item>
     <item
-        jar="C:\Users\dbelinson\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
         jumboMode="false"
-        revision="19.1.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\dbelinson\AndroidStudioProjects\PushkinBook\app\build\intermediates\pre-dexed\release\support-v4-19.1.0_fdb36bebb654d7f1b2a758f4e6d7639961e8125c.jar" />
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.0_69ec8ed1ad21087b506c31478af7498c3c5f3df8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Dmitrij\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Dmitrij\StudioProjects\simpityReader\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0_206874f1de5585f22a270e533d8e7880bd3ab4b8.jar" />
     </item>
 
 </items>
