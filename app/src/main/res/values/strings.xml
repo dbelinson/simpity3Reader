@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">А.С.Пушкин  Пиковая дама</string>
+    <string name="app_name">Горе от ума А.С.Грибоедов</string>
 
 
     <color name="dark_grey">#696969</color>
     <string name="copyright1">Copyright (c) 2010-2016</string>
-    <string name="description1">Пиковая дама</string>
+    <string name="description1">Горе от ума А.С.Грибоедов</string>
     <string name="Open_Book_1">Open Book 1</string>
     <string name="Open_Book_2">Open Book 2</string>
     <string name="Enable_Parallel_Texts">Enable Parallel Texts</string>
