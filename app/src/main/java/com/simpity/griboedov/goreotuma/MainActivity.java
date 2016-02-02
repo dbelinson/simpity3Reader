@@ -81,7 +81,7 @@ public class MainActivity extends Activity {
 
 		}
 		//Google Analytics Get tracker.
-	//	Tracker t = ((AnalyticsSampleApp) getApplication()).getTracker(AnalyticsSampleApp.TrackerName.APP_TRACKER);
+		//Tracker t = ((AnalyticsSampleApp) getApplication()).getTracker(AnalyticsSampleApp.TrackerName.APP_TRACKER);
 		AnalyticsTrackers.initialize(MainActivity.this);
 		Tracker t1 = AnalyticsTrackers.getInstance().get(
 				AnalyticsTrackers.Target.APP);
@@ -98,6 +98,7 @@ public class MainActivity extends Activity {
 	//	t.setScreenName("** YOUR SCREEN NAME  **");
 // Send a screen view.
 	//	t.send(new HitBuilders.AppViewBuilder().build());
+
 	}
 	private void copyfile() {
 
@@ -105,7 +106,7 @@ public class MainActivity extends Activity {
 		OutputStream myOutput = null;
 		InputStream myInput = null;
 		int length;
-        FileName = "Griboedov_Gore_ot_uma.epub";
+        FileName = "GriboedovGore_.epub";
 		FILE_PATH = Environment.getExternalStorageDirectory()
 				+ "/goreotumatemp/";
 		try {
