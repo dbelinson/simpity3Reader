@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simpity.griboedov.goreotuma"
+    package="com.simpity.griboedov.griboedovGoreOTuma"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -15,14 +15,14 @@
 
 
     <application
-        android:name=".AnalyticsSampleApp"
+        android:name="com.simpity.griboedov.griboedovGoreOTuma.AnalyticsSampleApp"
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:resource="@xml/global_tracker"
         android:theme="@style/AppTheme" >
         <activity
-            android:name=".MainActivity"
+            android:name="com.simpity.griboedov.griboedovGoreOTuma.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -31,19 +31,19 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".FileChooser"
+            android:name="com.simpity.griboedov.griboedovGoreOTuma.FileChooser"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name=".BookView"
+            android:name="com.simpity.griboedov.griboedovGoreOTuma.BookView"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name=".DataView"
+            android:name="com.simpity.griboedov.griboedovGoreOTuma.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name=".AudioView"
+            android:name="com.simpity.griboedov.griboedovGoreOTuma.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
 

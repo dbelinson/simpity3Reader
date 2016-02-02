@@ -2,7 +2,7 @@
 <resources>
     <integer name="ga_sessionTimeout">300</integer>
     <bool name="ga_autoActivityTracking">true</bool>
-    <screenName name="com.simpity.griboedov.goreotuma">**YOUR NAME**</screenName>
+    <screenName name="com.simpity.griboedov.griboedovGoreOTuma">**YOUR NAME**</screenName>
     <!--  The following value should be replaced with correct property id. -->
     <string name="ga_trackingId">UA-72393820-5</string>
 </resources>

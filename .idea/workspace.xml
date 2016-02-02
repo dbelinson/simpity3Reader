@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
-    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4534b2c-fc68-4c0d-a4a2-333d543da0a4" name="Default" comment="" />
@@ -37,22 +37,54 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/MainActivity.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4866#4891#0" expanded="true" />
-                <element signature="e#7238#7264#0" expanded="true" />
-                <element signature="e#7271#7295#0" expanded="true" />
-                <element signature="e#7491#7517#0" expanded="true" />
-                <element signature="e#7524#7548#0" expanded="true" />
-                <element signature="e#7947#7988#0" expanded="true" />
-                <element signature="e#8121#8162#0" expanded="true" />
-                <element signature="e#8215#8258#0" expanded="true" />
-                <element signature="e#8394#8435#0" expanded="true" />
-                <element signature="e#8488#8531#0" expanded="true" />
+                <element signature="e#0#14897#0" expanded="false" />
+                <element signature="e#4875#4900#0" expanded="false" />
+                <element signature="e#7247#7273#0" expanded="false" />
+                <element signature="e#7280#7304#0" expanded="false" />
+                <element signature="e#7500#7526#0" expanded="false" />
+                <element signature="e#7533#7557#0" expanded="false" />
+                <element signature="e#7956#7997#0" expanded="false" />
+                <element signature="e#8130#8171#0" expanded="false" />
+                <element signature="e#8224#8267#0" expanded="false" />
+                <element signature="e#8403#8444#0" expanded="false" />
+                <element signature="e#8497#8540#0" expanded="false" />
+                <element signature="e#9450#9487#0" expanded="false" />
+                <element signature="e#9573#9610#0" expanded="false" />
+                <element signature="e#9807#9850#0" expanded="false" />
+                <element signature="e#10152#10195#0" expanded="false" />
+                <element signature="e#10436#10479#0" expanded="false" />
+                <element signature="e#10720#10763#0" expanded="false" />
+                <element signature="e#11142#11170#0" expanded="false" />
+                <element signature="e#11266#11294#0" expanded="false" />
+                <element signature="e#12865#12889#0" expanded="false" />
+                <element signature="e#12923#12947#0" expanded="false" />
+                <element signature="e#13129#13171#0" expanded="false" />
+                <element signature="e#13352#13353#0" expanded="false" />
+                <element signature="e#13402#13403#0" expanded="false" />
+                <element signature="e#13452#13453#0" expanded="false" />
+                <element signature="e#13485#13486#0" expanded="false" />
+                <element signature="e#13527#13528#0" expanded="false" />
+                <element signature="e#13556#13557#0" expanded="false" />
+                <element signature="e#13606#13607#0" expanded="false" />
+                <element signature="e#13640#13641#0" expanded="false" />
+                <element signature="e#13688#13689#0" expanded="false" />
+                <element signature="e#13720#13721#0" expanded="false" />
+                <element signature="e#13878#13879#0" expanded="false" />
+                <element signature="e#13907#13908#0" expanded="false" />
+                <element signature="e#13951#13952#0" expanded="false" />
+                <element signature="e#13977#13978#0" expanded="false" />
+                <element signature="e#14023#14024#0" expanded="false" />
+                <element signature="e#14050#14051#0" expanded="false" />
+                <element signature="e#14156#14157#0" expanded="false" />
+                <element signature="e#14196#14197#0" expanded="false" />
+                <element signature="e#14516#14517#0" expanded="false" />
+                <element signature="e#14550#14551#0" expanded="false" />
+                <element signature="e#14669#14710#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -61,28 +93,39 @@
       <file leaf-file-name="google-services.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/google-services.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.307693">
+            <state vertical-scroll-proportion="-12.923077">
               <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="1.2417392">
+              <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="AnalyticsSampleApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/AnalyticsSampleApp.java">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/AnalyticsSampleApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1394#1416#0" expanded="true" />
+                <element signature="e#1403#1425#0" expanded="false" />
+                <element signature="e#1462#1463#0" expanded="false" />
+                <element signature="e#1485#1486#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="global_tracker.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/global_tracker.xml">
+      <file leaf-file-name="pushkin.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pushkin.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -91,18 +134,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ecommerce_tracker.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/ecommerce_tracker.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="app_tracker.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/app_tracker.xml">
+      <file leaf-file-name="simpityReader.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/simpityReader.iml">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -121,32 +154,35 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AnalyticsTrackers.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/AnalyticsTrackers.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.20695652">
-              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LanguageChooser.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/LanguageChooser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
+              <folding>
+                <element signature="e#0#3506#0" expanded="false" />
+                <element signature="imports" expanded="false" />
+                <element signature="e#1547#1556#0" expanded="false" />
+                <element signature="e#1696#1720#0" expanded="false" />
+                <element signature="e#1741#1765#0" expanded="false" />
+                <element signature="e#1937#1977#0" expanded="false" />
+                <element signature="e#2035#2545#0" expanded="false" />
+                <element signature="e#2544#2545#0" expanded="false" />
+                <element signature="e#2577#2599#0" expanded="false" />
+                <element signature="e#2605#3280#0" expanded="false" />
+                <element signature="e#3279#3280#0" expanded="false" />
+                <element signature="e#3312#3338#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -510,16 +546,6 @@
                 <option name="description" value="Runs lint on the Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="lintRelease" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintVitalDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the DebugAndroidTest build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="lintVitalDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs lint on just the fatal issues in the Release build." />
@@ -1216,16 +1242,6 @@
                 <option name="name" value="lintRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the Debug build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="lintVitalDebug" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Runs lint on just the fatal issues in the DebugAndroidTest build." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
-                <option name="name" value="lintVitalDebugAndroidTest" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs lint on just the fatal issues in the Release build." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="lintVitalRelease" />
@@ -1647,7 +1663,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\dbelinson\AndroidStudioProjects\simpityReader" value="4363009464378" />
+        <entry key="C:\Users\dbelinson\AndroidStudioProjects\simpityReader" value="4363069807549" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2041,8 +2057,9 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/AnalyticsSampleApp.java" />
         <option value="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/MainActivity.java" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v21/values-v21.xml" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
       </list>
     </option>
   </component>
@@ -2066,7 +2083,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="AndroidView" proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -2078,6 +2095,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2095,10 +2113,60 @@
               <option name="myItemId" value="simpityReader" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpityReader" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpityReader" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="griboedovGoreOTuma" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="simpityReader" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -2133,7 +2201,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -2149,6 +2216,7 @@
     <property name="ExportApk.ApkPath" value="C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app" />
     <property name="ExportApk.Flavors" value="" />
     <property name="ExportApk.BuildType" value="release" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -2210,6 +2278,15 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="" />
       <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -2329,38 +2406,46 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.47228146" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5058043" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.5063966" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.4936034" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5063966" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.4941957" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.45309168" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5157546" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.50852877" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33" sideWeight="0.4914712" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.49573562" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5063966" order="12" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.48424545" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.4978678" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.4978678" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -2369,12 +2454,12 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/MainActivity.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/MainActivity.java</url>
           <line>117</line>
           <properties />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/MainActivity.java</url>
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/MainActivity.java</url>
           <line>121</line>
           <properties />
           <option name="timeStamp" value="1" />
@@ -2385,138 +2470,91 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_data_view.xml">
-      <provider selected="true" editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider editor-type-id="text-editor">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14897#0" expanded="false" />
+            <element signature="e#4875#4900#0" expanded="false" />
+            <element signature="e#7247#7273#0" expanded="false" />
+            <element signature="e#7280#7304#0" expanded="false" />
+            <element signature="e#7500#7526#0" expanded="false" />
+            <element signature="e#7533#7557#0" expanded="false" />
+            <element signature="e#7956#7997#0" expanded="false" />
+            <element signature="e#8130#8171#0" expanded="false" />
+            <element signature="e#8224#8267#0" expanded="false" />
+            <element signature="e#8403#8444#0" expanded="false" />
+            <element signature="e#8497#8540#0" expanded="false" />
+            <element signature="e#9450#9487#0" expanded="false" />
+            <element signature="e#9573#9610#0" expanded="false" />
+            <element signature="e#9807#9850#0" expanded="false" />
+            <element signature="e#10152#10195#0" expanded="false" />
+            <element signature="e#10436#10479#0" expanded="false" />
+            <element signature="e#10720#10763#0" expanded="false" />
+            <element signature="e#11142#11170#0" expanded="false" />
+            <element signature="e#11266#11294#0" expanded="false" />
+            <element signature="e#12865#12889#0" expanded="false" />
+            <element signature="e#12923#12947#0" expanded="false" />
+            <element signature="e#13129#13171#0" expanded="false" />
+            <element signature="e#13352#13353#0" expanded="false" />
+            <element signature="e#13402#13403#0" expanded="false" />
+            <element signature="e#13452#13453#0" expanded="false" />
+            <element signature="e#13485#13486#0" expanded="false" />
+            <element signature="e#13527#13528#0" expanded="false" />
+            <element signature="e#13556#13557#0" expanded="false" />
+            <element signature="e#13606#13607#0" expanded="false" />
+            <element signature="e#13640#13641#0" expanded="false" />
+            <element signature="e#13688#13689#0" expanded="false" />
+            <element signature="e#13720#13721#0" expanded="false" />
+            <element signature="e#13878#13879#0" expanded="false" />
+            <element signature="e#13907#13908#0" expanded="false" />
+            <element signature="e#13951#13952#0" expanded="false" />
+            <element signature="e#13977#13978#0" expanded="false" />
+            <element signature="e#14023#14024#0" expanded="false" />
+            <element signature="e#14050#14051#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14196#14197#0" expanded="false" />
+            <element signature="e#14516#14517#0" expanded="false" />
+            <element signature="e#14550#14551#0" expanded="false" />
+            <element signature="e#14669#14710#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/google-services.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/ChangeCSSMenu.java">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <caret line="48" column="42" selection-start-line="46" selection-start-column="4" selection-end-line="48" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/AnalyticsSampleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="45" column="43" selection-start-line="45" selection-start-column="43" selection-end-line="45" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#3434#3463#0" expanded="false" />
-            <element signature="e#3512#3539#0" expanded="false" />
-            <element signature="e#3588#3617#0" expanded="false" />
-            <element signature="e#3666#3694#0" expanded="false" />
-            <element signature="e#3743#3772#0" expanded="false" />
-            <element signature="e#4192#4221#0" expanded="false" />
-            <element signature="e#4268#4295#0" expanded="false" />
-            <element signature="e#4342#4371#0" expanded="false" />
-            <element signature="e#4418#4446#0" expanded="false" />
-            <element signature="e#4493#4522#0" expanded="false" />
-            <element signature="e#4947#4972#0" expanded="false" />
-            <element signature="e#5024#5049#0" expanded="false" />
-            <element signature="e#5101#5130#0" expanded="false" />
-            <element signature="e#5571#5601#0" expanded="false" />
-            <element signature="e#5650#5682#0" expanded="false" />
-            <element signature="e#5731#5762#0" expanded="false" />
-            <element signature="e#5811#5838#0" expanded="false" />
-            <element signature="e#8907#9618#0" expanded="false" />
-            <element signature="e#9617#9618#0" expanded="false" />
-            <element signature="e#9650#9672#0" expanded="false" />
-            <element signature="e#9678#10576#0" expanded="false" />
-            <element signature="e#10575#10576#0" expanded="false" />
-            <element signature="e#10607#10633#0" expanded="false" />
+            <element signature="e#1403#1425#0" expanded="false" />
+            <element signature="e#1462#1463#0" expanded="false" />
+            <element signature="e#1485#1486#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/EpubManipulator.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/global_tracker.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.275862">
-          <caret line="666" column="56" selection-start-line="666" selection-start-column="52" selection-end-line="666" selection-end-column="56" />
-          <folding>
-            <element signature="e#0#21969#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#7202#7220#0" expanded="false" />
-            <element signature="e#7265#7283#0" expanded="false" />
-            <element signature="e#8531#8543#0" expanded="false" />
-            <element signature="e#9466#9478#0" expanded="false" />
-            <element signature="e#11947#11973#0" expanded="false" />
-            <element signature="e#12059#12078#0" expanded="false" />
-            <element signature="e#12339#12359#0" expanded="false" />
-            <element signature="e#12744#12769#0" expanded="false" />
-            <element signature="e#13137#13158#0" expanded="false" />
-            <element signature="e#13296#13319#0" expanded="false" />
-            <element signature="e#13555#13573#0" expanded="false" />
-            <element signature="e#13823#13848#0" expanded="false" />
-            <element signature="e#14086#14105#0" expanded="false" />
-            <element signature="e#14276#14303#0" expanded="false" />
-            <element signature="e#15045#15066#0" expanded="false" />
-            <element signature="e#15540#15567#0" expanded="false" />
-            <element signature="e#15933#15934#0" expanded="false" />
-            <element signature="e#16002#16003#0" expanded="false" />
-            <element signature="e#16952#16975#0" expanded="false" />
-            <element signature="e#19520#19528#0" expanded="false" />
-            <element signature="e#19859#19867#0" expanded="false" />
-            <element signature="e#20506#20507#0" expanded="false" />
-            <element signature="e#20525#20526#0" expanded="false" />
-            <element signature="e#21482#21483#0" expanded="false" />
-            <element signature="e#21520#21521#0" expanded="false" />
-            <element signature="e#21576#21577#0" expanded="false" />
-            <element signature="e#21621#21622#0" expanded="false" />
-            <element signature="e#21659#21660#0" expanded="false" />
-            <element signature="e#21684#21685#0" expanded="false" />
-            <element signature="e#21720#21721#0" expanded="false" />
-            <element signature="e#21749#21750#0" expanded="false" />
-            <element signature="e#21781#21782#0" expanded="false" />
-            <element signature="e#21803#21804#0" expanded="false" />
-            <element signature="e#21845#21846#0" expanded="false" />
-            <element signature="e#21877#21878#0" expanded="false" />
-            <element signature="e#21915#21916#0" expanded="false" />
-            <element signature="e#21965#21966#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/BookView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.1034484">
-          <caret line="42" column="26" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#5103#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2530#2768#0" expanded="false" />
-            <element signature="e#2767#2768#0" expanded="false" />
-            <element signature="e#2825#3295#0" expanded="false" />
-            <element signature="e#2959#3228#0" expanded="false" />
-            <element signature="e#3125#3148#0" expanded="false" />
-            <element signature="e#3227#3228#0" expanded="false" />
-            <element signature="e#3294#3295#0" expanded="false" />
-            <element signature="e#3323#3580#0" expanded="false" />
-            <element signature="e#3512#3546#0" expanded="false" />
-            <element signature="e#3579#3580#0" expanded="false" />
-            <element signature="e#4382#4422#0" expanded="false" />
-            <element signature="e#4592#4632#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/FileChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.275862">
-          <caret line="129" column="33" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="33" />
-          <folding>
-            <element signature="e#0#4393#0" expanded="false" />
-            <element signature="imports" expanded="false" />
-            <element signature="e#2305#2688#0" expanded="false" />
-            <element signature="e#2687#2688#0" expanded="false" />
-            <element signature="e#2837#2845#0" expanded="false" />
-            <element signature="e#3237#3243#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2536,6 +2574,180 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/AnalyticsTrackers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1488#1489#0" expanded="false" />
+            <element signature="e#1540#1541#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_data_view.xml">
+      <provider editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/ChangeCSSMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3443#3472#0" expanded="false" />
+            <element signature="e#3521#3548#0" expanded="false" />
+            <element signature="e#3597#3626#0" expanded="false" />
+            <element signature="e#3675#3703#0" expanded="false" />
+            <element signature="e#3752#3781#0" expanded="false" />
+            <element signature="e#4201#4230#0" expanded="false" />
+            <element signature="e#4277#4304#0" expanded="false" />
+            <element signature="e#4351#4380#0" expanded="false" />
+            <element signature="e#4427#4455#0" expanded="false" />
+            <element signature="e#4502#4531#0" expanded="false" />
+            <element signature="e#4956#4981#0" expanded="false" />
+            <element signature="e#5033#5058#0" expanded="false" />
+            <element signature="e#5110#5139#0" expanded="false" />
+            <element signature="e#5580#5610#0" expanded="false" />
+            <element signature="e#5659#5691#0" expanded="false" />
+            <element signature="e#5740#5771#0" expanded="false" />
+            <element signature="e#5820#5847#0" expanded="false" />
+            <element signature="e#8916#9627#0" expanded="false" />
+            <element signature="e#9626#9627#0" expanded="false" />
+            <element signature="e#9659#9681#0" expanded="false" />
+            <element signature="e#9687#10585#0" expanded="false" />
+            <element signature="e#10584#10585#0" expanded="false" />
+            <element signature="e#10616#10642#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/EpubManipulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.275862">
+          <caret line="666" column="56" selection-start-line="666" selection-start-column="52" selection-end-line="666" selection-end-column="56" />
+          <folding>
+            <element signature="e#0#21978#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#7211#7229#0" expanded="false" />
+            <element signature="e#7274#7292#0" expanded="false" />
+            <element signature="e#8540#8552#0" expanded="false" />
+            <element signature="e#9475#9487#0" expanded="false" />
+            <element signature="e#11956#11982#0" expanded="false" />
+            <element signature="e#12068#12087#0" expanded="false" />
+            <element signature="e#12348#12368#0" expanded="false" />
+            <element signature="e#12753#12778#0" expanded="false" />
+            <element signature="e#13146#13167#0" expanded="false" />
+            <element signature="e#13305#13328#0" expanded="false" />
+            <element signature="e#13564#13582#0" expanded="false" />
+            <element signature="e#13832#13857#0" expanded="false" />
+            <element signature="e#14095#14114#0" expanded="false" />
+            <element signature="e#14285#14312#0" expanded="false" />
+            <element signature="e#15054#15075#0" expanded="false" />
+            <element signature="e#15549#15576#0" expanded="false" />
+            <element signature="e#15942#15943#0" expanded="false" />
+            <element signature="e#16011#16012#0" expanded="false" />
+            <element signature="e#16961#16984#0" expanded="false" />
+            <element signature="e#19529#19537#0" expanded="false" />
+            <element signature="e#19868#19876#0" expanded="false" />
+            <element signature="e#20515#20516#0" expanded="false" />
+            <element signature="e#20534#20535#0" expanded="false" />
+            <element signature="e#21491#21492#0" expanded="false" />
+            <element signature="e#21529#21530#0" expanded="false" />
+            <element signature="e#21585#21586#0" expanded="false" />
+            <element signature="e#21630#21631#0" expanded="false" />
+            <element signature="e#21668#21669#0" expanded="false" />
+            <element signature="e#21693#21694#0" expanded="false" />
+            <element signature="e#21729#21730#0" expanded="false" />
+            <element signature="e#21758#21759#0" expanded="false" />
+            <element signature="e#21790#21791#0" expanded="false" />
+            <element signature="e#21812#21813#0" expanded="false" />
+            <element signature="e#21854#21855#0" expanded="false" />
+            <element signature="e#21886#21887#0" expanded="false" />
+            <element signature="e#21924#21925#0" expanded="false" />
+            <element signature="e#21974#21975#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/BookView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.1034484">
+          <caret line="42" column="26" selection-start-line="42" selection-start-column="24" selection-end-line="42" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/FileChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.275862">
+          <caret line="129" column="33" selection-start-line="129" selection-start-column="29" selection-end-line="129" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/ecommerce_tracker.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/app_tracker.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/AnalyticsTrackers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1488#1489#0" expanded="false" />
+            <element signature="e#1540#1541#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/assets/GriboedovGore_.epub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/global_tracker.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -2544,26 +2756,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/AnalyticsSampleApp.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/LanguageChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="68" selection-start-line="45" selection-start-column="68" selection-end-line="45" selection-end-column="68" />
+          <caret line="34" column="13" selection-start-line="34" selection-start-column="13" selection-end-line="34" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1394#1416#0" expanded="true" />
+            <element signature="e#0#3506#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1547#1556#0" expanded="false" />
+            <element signature="e#1696#1720#0" expanded="false" />
+            <element signature="e#1741#1765#0" expanded="false" />
+            <element signature="e#1937#1977#0" expanded="false" />
+            <element signature="e#2035#2545#0" expanded="false" />
+            <element signature="e#2544#2545#0" expanded="false" />
+            <element signature="e#2577#2599#0" expanded="false" />
+            <element signature="e#2605#3280#0" expanded="false" />
+            <element signature="e#3279#3280#0" expanded="false" />
+            <element signature="e#3312#3338#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/AnalyticsTrackers.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Android/sdk/sources/android-21/android/content/Intent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="19" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.3321739">
+          <caret line="634" column="31" selection-start-line="634" selection-start-column="31" selection-end-line="634" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/assets/GriboedovGore_.epub">
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="61" selection-start-line="27" selection-start-column="61" selection-end-line="27" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/AnalyticsSampleApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+          <folding>
+            <element signature="e#1403#1425#0" expanded="false" />
+            <element signature="e#1462#1463#0" expanded="false" />
+            <element signature="e#1485#1486#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pushkin.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/simpityReader.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -2573,28 +2823,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/google-services.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.307693">
+        <state vertical-scroll-proportion="-12.923077">
           <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/goreotuma/MainActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/simpity/griboedov/griboedovGoreOTuma/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="83" column="10" selection-start-line="83" selection-start-column="10" selection-end-line="83" selection-end-column="10" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#4866#4891#0" expanded="true" />
-            <element signature="e#7238#7264#0" expanded="true" />
-            <element signature="e#7271#7295#0" expanded="true" />
-            <element signature="e#7491#7517#0" expanded="true" />
-            <element signature="e#7524#7548#0" expanded="true" />
-            <element signature="e#7947#7988#0" expanded="true" />
-            <element signature="e#8121#8162#0" expanded="true" />
-            <element signature="e#8215#8258#0" expanded="true" />
-            <element signature="e#8394#8435#0" expanded="true" />
-            <element signature="e#8488#8531#0" expanded="true" />
+            <element signature="e#0#14897#0" expanded="false" />
+            <element signature="e#4875#4900#0" expanded="false" />
+            <element signature="e#7247#7273#0" expanded="false" />
+            <element signature="e#7280#7304#0" expanded="false" />
+            <element signature="e#7500#7526#0" expanded="false" />
+            <element signature="e#7533#7557#0" expanded="false" />
+            <element signature="e#7956#7997#0" expanded="false" />
+            <element signature="e#8130#8171#0" expanded="false" />
+            <element signature="e#8224#8267#0" expanded="false" />
+            <element signature="e#8403#8444#0" expanded="false" />
+            <element signature="e#8497#8540#0" expanded="false" />
+            <element signature="e#9450#9487#0" expanded="false" />
+            <element signature="e#9573#9610#0" expanded="false" />
+            <element signature="e#9807#9850#0" expanded="false" />
+            <element signature="e#10152#10195#0" expanded="false" />
+            <element signature="e#10436#10479#0" expanded="false" />
+            <element signature="e#10720#10763#0" expanded="false" />
+            <element signature="e#11142#11170#0" expanded="false" />
+            <element signature="e#11266#11294#0" expanded="false" />
+            <element signature="e#12865#12889#0" expanded="false" />
+            <element signature="e#12923#12947#0" expanded="false" />
+            <element signature="e#13129#13171#0" expanded="false" />
+            <element signature="e#13352#13353#0" expanded="false" />
+            <element signature="e#13402#13403#0" expanded="false" />
+            <element signature="e#13452#13453#0" expanded="false" />
+            <element signature="e#13485#13486#0" expanded="false" />
+            <element signature="e#13527#13528#0" expanded="false" />
+            <element signature="e#13556#13557#0" expanded="false" />
+            <element signature="e#13606#13607#0" expanded="false" />
+            <element signature="e#13640#13641#0" expanded="false" />
+            <element signature="e#13688#13689#0" expanded="false" />
+            <element signature="e#13720#13721#0" expanded="false" />
+            <element signature="e#13878#13879#0" expanded="false" />
+            <element signature="e#13907#13908#0" expanded="false" />
+            <element signature="e#13951#13952#0" expanded="false" />
+            <element signature="e#13977#13978#0" expanded="false" />
+            <element signature="e#14023#14024#0" expanded="false" />
+            <element signature="e#14050#14051#0" expanded="false" />
+            <element signature="e#14156#14157#0" expanded="false" />
+            <element signature="e#14196#14197#0" expanded="false" />
+            <element signature="e#14516#14517#0" expanded="false" />
+            <element signature="e#14550#14551#0" expanded="false" />
+            <element signature="e#14669#14710#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2607,18 +2889,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+    <entry file="file://$PROJECT_DIR$/app/build/intermediates/res/merged/release/values-v21/values-v21.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="36" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="36" />
+        <state vertical-scroll-proportion="0.37226278">
+          <caret line="12" column="100" selection-start-line="12" selection-start-column="100" selection-end-line="12" selection-end-column="100" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.20695652">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.2417392">
+          <caret line="42" column="53" selection-start-line="42" selection-start-column="53" selection-end-line="42" selection-end-column="53" />
           <folding />
         </state>
       </provider>

@@ -30,7 +30,7 @@ android {
     buildTypes {
         debug {
             signingConfig signingConfigs.config
-            debuggable false
+            debuggable true
         }
         release {
             signingConfig signingConfigs.config
