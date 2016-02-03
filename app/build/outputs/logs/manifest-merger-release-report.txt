@@ -1,8 +1,8 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:2:1-55:12
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:2:1-53:12
 	package
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:3:5-55
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:3:5-41
 	android:versionName
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:5:5-30
 		INJECTED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml
@@ -209,11 +209,15 @@ MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\db
 	android:name
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:13:22-76
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:14:5-74
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:14:5-75
 	android:name
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:14:22-72
+android:uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:16:5-88
+	android:name
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:16:30-85
 application
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:17:5-53:19
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:18:5-51:19
 MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
@@ -327,24 +331,22 @@ MERGED from [com.android.support:support-v4:22.2.0] C:\Users\dbelinson\AndroidSt
 MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:26:5-46:19
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.android.support:support-v4:22.2.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\AndroidManifest.xml:22:5-20
-	android:resource
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:22:9-47
 	android:label
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:22:9-41
 	android:allowBackup
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:20:9-35
 	android:icon
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:20:9-45
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:21:9-45
 	android:theme
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:23:9-40
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:18:9-83
-activity#com.simpity.griboedov.griboedovGoreOTuma.MainActivity
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:19:9-43
+activity#com.simpity.pushkin.mozart.MainActivity
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:24:9-32:20
 	android:label
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:26:13-45
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:25:13-81
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:25:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:27:13-31:29
 action#android.intent.action.MAIN
@@ -355,32 +357,30 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
 		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:30:27-74
-activity#com.simpity.griboedov.griboedovGoreOTuma.FileChooser
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:33:9-36:20
-	android:label
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:35:13-61
+activity#com.simpity.pushkin.mozart.FileChooser
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:33:9-34:20
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:34:13-80
-activity#com.simpity.griboedov.griboedovGoreOTuma.BookView
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:37:9-40:20
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:33:19-46
+activity#com.simpity.pushkin.mozart.BookView
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:35:9-38:20
 	android:label
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:39:13-61
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:37:13-61
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:38:13-77
-activity#com.simpity.griboedov.griboedovGoreOTuma.DataView
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:41:9-44:20
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:36:13-37
+activity#com.simpity.pushkin.mozart.DataView
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:39:9-42:20
 	android:label
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:43:13-61
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:41:13-61
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:42:13-77
-activity#com.simpity.griboedov.griboedovGoreOTuma.AudioView
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:45:9-48:20
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:40:13-37
+activity#com.simpity.pushkin.mozart.AudioView
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:43:9-46:20
 	android:label
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:47:13-62
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:45:13-62
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:46:13-78
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:44:13-38
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:50:9-52:69
+ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:48:9-50:69
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
@@ -419,9 +419,9 @@ MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbeli
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
 MERGED from [com.google.android.gms:play-services-basement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\AndroidManifest.xml:21:9-23:69
 	android:value
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:52:13-66
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:50:13-66
 	android:name
-		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:51:13-58
+		ADDED from C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\src\main\AndroidManifest.xml:49:13-58
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
 MERGED from [com.google.android.gms:play-services-measurement:8.3.0] C:\Users\dbelinson\AndroidStudioProjects\simpityReader\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\AndroidManifest.xml:24:5-67
