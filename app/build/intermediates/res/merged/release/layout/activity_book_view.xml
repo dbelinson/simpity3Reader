@@ -36,6 +36,7 @@
             android:padding="@dimen/all_margin"
             android:textColorHint="@color/dark_grey"
             android:textColorLink="@color/dark_grey" />
+
     </RelativeLayout>
 
 </RelativeLayout>
