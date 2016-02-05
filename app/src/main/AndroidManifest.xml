@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.simpity.Shakespeare.romeoandjuliet"
+    package="com.simpity.Shakespeare.kinglear"
     android:versionCode="2"
     android:versionName="1.2" >
 
@@ -18,9 +18,9 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme"
-        android:name="com.simpity.Shakespeare.romeoandjuliet.AnalyticsSampleApp">
+        android:name="com.simpity.Shakespeare.kinglear.AnalyticsSampleApp">
         <activity
-            android:name="com.simpity.Shakespeare.romeoandjuliet.MainActivity"
+            android:name="com.simpity.Shakespeare.kinglear.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -28,18 +28,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.simpity.Shakespeare.romeoandjuliet.FileChooser" >
+        <activity android:name="com.simpity.Shakespeare.kinglear.FileChooser" >
         </activity>
         <activity
-            android:name="com.simpity.Shakespeare.romeoandjuliet.BookView"
+            android:name="com.simpity.Shakespeare.kinglear.BookView"
             android:label="@string/title_activity_book_view" >
         </activity>
         <activity
-            android:name="com.simpity.Shakespeare.romeoandjuliet.DataView"
+            android:name="com.simpity.Shakespeare.kinglear.DataView"
             android:label="@string/title_activity_data_view" >
         </activity>
         <activity
-            android:name="com.simpity.Shakespeare.romeoandjuliet.AudioView"
+            android:name="com.simpity.Shakespeare.kinglear.AudioView"
             android:label="@string/title_activity_audio_view" >
         </activity>
 
