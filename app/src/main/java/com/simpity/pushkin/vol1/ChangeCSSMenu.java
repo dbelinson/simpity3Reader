@@ -57,25 +57,25 @@ public class ChangeCSSMenu extends DialogFragment {
 		fontInt = preferences.getInt("spinFontStyleValue", 0);
 		spinFontStyle.setSelection(fontInt);
 
-		spinAlignText = (Spinner) view.findViewById(R.id.spinnerAlign);
-		alignInt = preferences.getInt("spinAlignTextValue", 0);
-		spinAlignText.setSelection(alignInt);
+		//spinAlignText = (Spinner) view.findViewById(R.id.spinnerAlign);
+	//	alignInt = preferences.getInt("spinAlignTextValue", 0);
+//		spinAlignText.setSelection(alignInt);
 
 		spinFontSize = (Spinner) view.findViewById(R.id.spinnerFS);
 		sizeInt = preferences.getInt("spinFontSizeValue", 0);
 		spinFontSize.setSelection(sizeInt);
 
-		spinLineH = (Spinner) view.findViewById(R.id.spinnerLH);
-		heightInt = preferences.getInt("spinLineHValue", 0);
-		spinLineH.setSelection(heightInt);
+	//	spinLineH = (Spinner) view.findViewById(R.id.spinnerLH);
+	//	heightInt = preferences.getInt("spinLineHValue", 0);
+		//spinLineH.setSelection(heightInt);
 
-		spinLeft = (Spinner) view.findViewById(R.id.spinnerLeft);
-		marginLInt = preferences.getInt("spinLeftValue", 0);
-		spinLeft.setSelection(marginLInt);
+		//spinLeft = (Spinner) view.findViewById(R.id.spinnerLeft);
+	//	marginLInt = preferences.getInt("spinLeftValue", 0);
+		//spinLeft.setSelection(marginLInt);
 
-		spinRight = (Spinner) view.findViewById(R.id.spinnerRight);
-		marginRInt = preferences.getInt("spinRightValue", 0);
-		spinRight.setSelection(marginRInt);
+		//spinRight = (Spinner) view.findViewById(R.id.spinnerRight);
+	//	marginRInt = preferences.getInt("spinRightValue", 0);
+	//	spinRight.setSelection(marginRInt);
 
 		defaultButton = (Button) view.findViewById(R.id.buttonDefault);
 		// editTextTop = (EditText) view.findViewById(R.id.editText1);
@@ -83,7 +83,7 @@ public class ChangeCSSMenu extends DialogFragment {
 		// editTextLeft = (EditText) view.findViewById(R.id.editText3);
 		// editTextRight = (EditText) view.findViewById(R.id.editText4);
 
-		builder.setTitle("Style");
+		builder.setTitle("Настройки");
 		builder.setView(view);
 
 		spinColor
@@ -91,26 +91,26 @@ public class ChangeCSSMenu extends DialogFragment {
 
 					@Override
 					public void onItemSelected(AdapterView<?> parent,
-							View view, int position, long id) {
+											   View view, int position, long id) {
 						colInt = (int) id;
 						switch ((int) id) {
-						case 0:
-							a.setColor(getString(R.string.black_rgb));
-							break;
-						case 1:
-							a.setColor(getString(R.string.red_rgb));
-							break;
-						case 2:
-							a.setColor(getString(R.string.green_rgb));
-							break;
-						case 3:
-							a.setColor(getString(R.string.blue_rgb));
-							break;
-						case 4:
-							a.setColor(getString(R.string.white_rgb));
-							break;
-						default:
-							break;
+							case 0:
+								a.setColor(getString(R.string.black_rgb));
+								break;
+							case 1:
+								a.setColor(getString(R.string.red_rgb));
+								break;
+							case 2:
+								a.setColor(getString(R.string.green_rgb));
+								break;
+							case 3:
+								a.setColor(getString(R.string.blue_rgb));
+								break;
+							case 4:
+								a.setColor(getString(R.string.white_rgb));
+								break;
+							default:
+								break;
 						}
 					}
 
@@ -124,26 +124,26 @@ public class ChangeCSSMenu extends DialogFragment {
 
 			@Override
 			public void onItemSelected(AdapterView<?> parent, View view,
-					int position, long id) {
+									   int position, long id) {
 				backInt = (int) id;
 				switch ((int) id) {
-				case 0:
-					a.setBackColor(getString(R.string.white_rgb));
-					break;
-				case 1:
-					a.setBackColor(getString(R.string.red_rgb));
-					break;
-				case 2:
-					a.setBackColor(getString(R.string.green_rgb));
-					break;
-				case 3:
-					a.setBackColor(getString(R.string.blue_rgb));
-					break;
-				case 4:
-					a.setBackColor(getString(R.string.black_rgb));
-					break;
-				default:
-					break;
+					case 0:
+						a.setBackColor(getString(R.string.white_rgb));
+						break;
+					case 1:
+						a.setBackColor(getString(R.string.red_rgb));
+						break;
+					case 2:
+						a.setBackColor(getString(R.string.green_rgb));
+						break;
+					case 3:
+						a.setBackColor(getString(R.string.blue_rgb));
+						break;
+					case 4:
+						a.setBackColor(getString(R.string.black_rgb));
+						break;
+					default:
+						break;
 				}
 			}
 
@@ -181,7 +181,7 @@ public class ChangeCSSMenu extends DialogFragment {
 					}
 				});
 
-		spinAlignText
+	/*	spinAlignText
 				.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
 					@Override
@@ -210,7 +210,7 @@ public class ChangeCSSMenu extends DialogFragment {
 					public void onNothingSelected(AdapterView<?> arg0) {
 
 					}
-				});
+				});*/
 
 		spinFontSize
 				.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
@@ -249,7 +249,7 @@ public class ChangeCSSMenu extends DialogFragment {
 					}
 				});
 
-		spinLineH
+	/*	spinLineH
 				.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
 					@Override
@@ -284,9 +284,9 @@ public class ChangeCSSMenu extends DialogFragment {
 					public void onNothingSelected(AdapterView<?> arg0) {
 
 					}
-				});
+				});*/
 
-		spinLeft.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
+		/*spinLeft.setOnItemSelectedListener(new AdapterView.OnItemSelectedListener() {
 
 			@Override
 			public void onItemSelected(AdapterView<?> parent, View view,
@@ -358,7 +358,7 @@ public class ChangeCSSMenu extends DialogFragment {
 
 					}
 				});
-
+*/
 		defaultButton.setOnClickListener(new View.OnClickListener() {
 
 			@Override
@@ -399,7 +399,12 @@ public class ChangeCSSMenu extends DialogFragment {
 						// .toString(), editTextBottom.getText()
 						// .toString(), editTextLeft.getText().toString(),
 						// editTextRight.getText().toString());
+						a.setLineHeight("");
+						a.setAlign("");
+						a.setMarginLeft("");
+						a.setMarginRight("");
 						a.setCSS();
+
 
 						SharedPreferences.Editor editor = preferences.edit();
 						editor.putInt("spinColorValue", colInt);

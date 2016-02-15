@@ -74,8 +74,8 @@
     <string name="tablebodyhtmlClose">&lt;/table&gt;&lt;/body&gt;&lt;/html&gt;</string>
     <string name="tocReference">&lt;tr&gt;&lt;td&gt;Оглавление:&lt;/td&gt;</string>
     <string name="change_Font">Change Font</string>
-    <string name="change_Font_Color">Font Color:</string>
-    <string name="changeStyle">Изменение стиля</string>
+    <string name="change_Font_Color">Цвет текста:</string>  <!--  Font Color-->
+    <string name="changeStyle">Настройки</string>
     <string name="blue_rgb">#0000ff</string>
     <string name="red_rgb">#ff0000</string>
     <string name="green_rgb">#00ff00</string>
@@ -89,25 +89,25 @@
     <string name="parallelTextBool">parallelTextBool</string>
 
     <string-array name="ColorFont">
-        <item>Black</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>White</item>
+        <item>Черный</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Белый</item>
     </string-array>
 
-    <string name="ChangeBackgroundColor">Background Color:</string>
+    <string name="ChangeBackgroundColor">Цвет фона:</string>
 
     <string-array name="ColorBack">
-        <item>White</item>
-        <item>Red</item>
-        <item>Green</item>
-        <item>Blue</item>
-        <item>Black</item>
+        <item>Белый</item>
+        <item>Красный</item>
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Черный</item>
     </string-array>
 
     <string name="syncScroll">Sync. Scroll</string>
-    <string name="ChangeFont">Font:</string>
+    <string name="ChangeFont">Шрифт:</string>
 
     <string-array name="FontStyle">
         <item>Sans Serif</item>
@@ -118,9 +118,9 @@
     <string name="Arial">Sans Serif</string>
     <string name="Serif">Serif</string>
     <string name="Monospace">Monospace</string>
-    <string name="FontSize">Font Size:</string>
-    <string name="LineHeight">Line Height:</string>
-    <string name="TextAlign">Alignment:</string>
+    <string name="FontSize">Размер шрифта:</string>
+    <string name="LineHeight">Расстояние между строк:</string>
+    <string name="TextAlign">Выравнивания:</string>
 
     <string-array name="testAlignOption">
         <item>Left</item>
@@ -135,7 +135,7 @@
     <string name="DefaultSettings">Default</string>
     <string name="px">px</string>
     <string name="open">Open...</string>
-    <string name="Margin">Margin(px):</string>
+    <string name="Margin">Oтступ(px):</string>
 
     <string-array name="FontSize">
         <item>100%</item>

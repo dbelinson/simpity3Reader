@@ -45,6 +45,12 @@ import java.io.InputStream;
 import java.io.OutputStream;
 
 
+import com.google.android.gms.analytics.GoogleAnalytics;
+//import com.google.android.gms.analytics.HitBuilders;
+import com.google.android.gms.analytics.Tracker;
+import com.google.android.gms.analytics.Logger.LogLevel;
+
+
 public class MainActivity extends Activity {
 
 	protected EpubNavigator navigator;
@@ -53,6 +59,8 @@ public class MainActivity extends Activity {
 	protected String[] settings;
 	private String FILE_PATH;
 	private String FileName;
+	private static GoogleAnalytics analytics;
+	private static  Tracker mTracker;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -76,6 +84,18 @@ public class MainActivity extends Activity {
 			//startActivityForResult(goToChooser, 0);
 
 		}
+		analytics = GoogleAnalytics.getInstance(this);
+		analytics.setLocalDispatchPeriod(3000);
+		analytics.getLogger().setLogLevel(LogLevel.ERROR);
+
+
+		mTracker = analytics.newTracker("UA-72393820-10");
+		mTracker.enableExceptionReporting(true);
+		mTracker.enableAutoActivityTracking(true);
+		mTracker.enableAdvertisingIdCollection(true);
+
+		mTracker.setScreenName("Pushkin Tom 1");
+
 	}
 	private void copyfile() {
 
