@@ -4,9 +4,9 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias 'pushkinBook'
+            keyAlias 'SkazkaoPope'
             keyPassword 'd030476b'
-            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/PushkinBook.jks')
+            storeFile file('C:/Users/dbelinson/AndroidStudioProjects/skazkaOpope.jks')
             storePassword 'd030476b'
         }
     }
@@ -16,8 +16,8 @@ android {
         minSdkVersion 13
         targetSdkVersion 21
         maxSdkVersion 23
-        versionCode 6
-        versionName '1.6'
+        versionCode 1
+        versionName '1.0'
         signingConfig signingConfigs.config
     }
     sourceSets {
@@ -42,7 +42,6 @@ android {
 dependencies {
     compile files('libs/epublib-core-latest.jar')
     compile files('libs/slf4j-android-1.6.1-RC1.jar')
-    compile 'com.google.code.gson:gson:2.4'
     compile 'com.android.support:support-v4:21.1.1'
     compile 'com.google.android.gms:play-services-analytics:8.4.0'
 }
