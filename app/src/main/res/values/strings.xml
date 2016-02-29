@@ -83,7 +83,7 @@
     <string name="white_rgb">#ffffff</string>
     <string name="error_CannotChangeStyle">Cannot Change Style!</string>
     <string name="OK">OK</string>
-    <string name="Cancel">Cancel</string>
+    <string name="Cancel">Отмена</string>
     <string name="SetSizeTitle">Upper Panel Size:</string>
     <string name="LanguageChooserTitle">Choose two languages:</string>
     <string name="parallelTextBool">parallelTextBool</string>
@@ -132,7 +132,7 @@
     <string name="Left_Align">Left</string>
     <string name="Center_Align">Center</string>
     <string name="Right_Align">Right</string>
-    <string name="DefaultSettings">Default</string>
+    <string name="DefaultSettings">Значение по умолчанию</string>
     <string name="px">px</string>
     <string name="open">Open...</string>
     <string name="Margin">Oтступ(px):</string>

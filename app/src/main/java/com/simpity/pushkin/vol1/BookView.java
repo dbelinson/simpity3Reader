@@ -128,7 +128,7 @@ public class BookView extends SplitPanel {
 			break;
 
 		case (MotionEvent.ACTION_UP):
-			int quarterWidth = (int) (screenWidth * 0.25);
+			int quarterWidth = (int) (screenWidth * 0.15);//Es war .025
 			float diffX = swipeOriginX - event.getX();
 			float diffY = swipeOriginY - event.getY();
 			float absDiffX = Math.abs(diffX);
