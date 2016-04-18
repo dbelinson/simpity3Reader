@@ -3,6 +3,7 @@
     android:id="@+id/RelativeLayout1"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:visibility="visible"
     android:orientation="vertical" >
 
 
@@ -76,7 +77,18 @@
         android:layout_below="@+id/spinnerBack"
         android:layout_alignLeft="@+id/spinnerBack"
         android:layout_alignStart="@+id/spinnerBack" />
+    <Button
+        android:id="@+id/closeButton"
+        android:icon="@drawable/closebutton"
 
+        android:showAsAction="always"
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/deinstalieren"
+        android:layout_below="@+id/buttonDefault"
+        android:layout_alignRight="@+id/buttonDefault"
+        android:layout_alignEnd="@+id/buttonDefault" />
     <Button
         android:id="@+id/buttonDefault"
         android:layout_width="wrap_content"

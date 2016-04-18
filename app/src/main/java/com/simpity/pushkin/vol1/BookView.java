@@ -120,7 +120,6 @@ public class BookView extends SplitPanel {
 	// Change page
 	protected void swipePage(View v, MotionEvent event, int book) {
 		int action = MotionEventCompat.getActionMasked(event);
-
 		switch (action) {
 		case (MotionEvent.ACTION_DOWN):
 			swipeOriginX = event.getX();
@@ -128,7 +127,7 @@ public class BookView extends SplitPanel {
 			break;
 
 		case (MotionEvent.ACTION_UP):
-			int quarterWidth = (int) (screenWidth * 0.15);//Es war .025
+			int quarterWidth = (int) (screenWidth * 0.13);//Es war .025 , ist gut 15
 			float diffX = swipeOriginX - event.getX();
 			float diffY = swipeOriginY - event.getY();
 			float absDiffX = Math.abs(diffX);

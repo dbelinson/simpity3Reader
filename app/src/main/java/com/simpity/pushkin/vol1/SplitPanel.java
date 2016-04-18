@@ -43,7 +43,8 @@ public abstract class SplitPanel extends Fragment {
 	private RelativeLayout generalLayout;
 	protected int index;
 	protected RelativeLayout layout;
-	protected Button closeButton;
+//	protected Button closeButton;
+	protected Button backButton;
 	protected EpubNavigator navigator;
 	protected int screenWidth;
 	protected int screenHeight;
@@ -67,7 +68,8 @@ public abstract class SplitPanel extends Fragment {
 		generalLayout = (RelativeLayout) getView().findViewById(
 				R.id.GeneralLayout);
 		layout = (RelativeLayout) getView().findViewById(R.id.Content);
-		closeButton = (Button) getView().findViewById(R.id.CloseButton);
+		//closeButton = (Button) getView().findViewById(R.id.CloseButton);
+		backButton = (Button) getView().findViewById(R.id.backButton);
 
 		// ----- get activity screen size
 		DisplayMetrics metrics = this.getResources().getDisplayMetrics();
@@ -76,18 +78,36 @@ public abstract class SplitPanel extends Fragment {
 		// -----
 
 		changeWeight(weight);
-
-		// ----- VIEW CLOSING
-		closeButton.setOnClickListener(new View.OnClickListener() {
+		backButton.setOnClickListener(new View.OnClickListener(){
 			@Override
-			public void onClick(View v) {
-				closeView();
+			public void onClick(View v){
+				boolean hasUrl = false;
+				hasUrl=navigator.closeViewhasUrlToBack(0);
+				try {
+						if(hasUrl){
+							closeView();
+						} else{
+					navigator.goToPrevChapter(0);
+						}
+				}catch (Exception e){
+					e.getStackTrace();
+				}
 			}
 		});
+		// ----- VIEW CLOSING
+	/*closeButton.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+			closeViewOnly();
+			}
+		});*/
 	}
 
 	protected void closeView() {
 		navigator.closeView(index);
+	}
+	protected void closeViewOnly() {
+		navigator.closeViewOnly(index);
 	}
 
 	// change the weight of the general layout

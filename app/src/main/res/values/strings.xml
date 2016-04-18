@@ -5,6 +5,7 @@
 
 
     <color name="dark_grey">#696969</color>
+    <color name="red">#c91212</color>
     <string name="copyright1">Copyright (c) 2010-2016</string>
     <string name="description1">Том 1. Стихотворения 1813-1820</string>
     <string name="description2">Настоящее собрание сочинений А.С. Пушкина в десяти томах является облегчённым вариантом большого академического издания сочинений Пушкина.
@@ -121,7 +122,7 @@
     <string name="FontSize">Размер шрифта:</string>
     <string name="LineHeight">Расстояние между строк:</string>
     <string name="TextAlign">Выравнивания:</string>
-
+    <string name="deinstalieren">Удалить </string>
     <string-array name="testAlignOption">
         <item>Left</item>
         <item>Center</item>

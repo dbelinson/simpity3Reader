@@ -73,6 +73,7 @@ public class EpubManipulator {
 			+ "/epubtemp/";
 
 	private String fileName;
+	static int indexPage ;
 	FileInputStream fs;
 	private String actualCSS = "";
 	private String[][] audio;
@@ -573,6 +574,7 @@ public class EpubManipulator {
 	// set the current page and its language
 	public boolean goToPage(String page) {
 		int index = getPageIndex(page);
+		indexPage=index;
 		boolean res = false;
 		if (index >= 0) {
 			String newLang = getPageLanguage(page);
@@ -589,6 +591,7 @@ public class EpubManipulator {
 		}
 		return res;
 	}
+
 
 	// return the language of the page according to the
 	// ISO 639-1 naming convention:

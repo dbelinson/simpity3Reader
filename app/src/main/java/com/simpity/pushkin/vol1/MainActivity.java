@@ -88,12 +88,10 @@ public class MainActivity extends Activity {
 		analytics.setLocalDispatchPeriod(3000);
 		analytics.getLogger().setLogLevel(LogLevel.ERROR);
 
-
 		mTracker = analytics.newTracker("UA-72393820-10");
 		mTracker.enableExceptionReporting(true);
 		mTracker.enableAutoActivityTracking(true);
 		mTracker.enableAdvertisingIdCollection(true);
-
 		mTracker.setScreenName("Pushkin Tom 1");
 
 	}
@@ -148,7 +146,6 @@ public class MainActivity extends Activity {
 			SharedPreferences preferences = getPreferences(MODE_PRIVATE);
 			navigator.loadViews(preferences);
 		}
-
 		if (resultCode == Activity.RESULT_OK) {
 			String path = data.getStringExtra(getString(R.string.bpath));
 			navigator.openBook(path, bookSelector);
@@ -159,8 +156,8 @@ public class MainActivity extends Activity {
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		getMenuInflater().inflate(R.menu.main, menu);
-		return super.onCreateOptionsMenu(menu);
-		//return true;
+		//return super.onCreateOptionsMenu(menu);
+		return true;
 	}
 
 	@Override
@@ -252,7 +249,6 @@ public class MainActivity extends Activity {
 			else
 				errorMessage(getString(R.string.error_onlyOneBookOpen));
 			return true;
-
 		case R.id.PconS:
 			try {
 				boolean yes = navigator.synchronizeView(1, 0);
@@ -263,7 +259,6 @@ public class MainActivity extends Activity {
 				errorMessage(getString(R.string.error_cannotSynchronize));
 			}
 			return true;
-
 		case R.id.SconP:
 			try {
 				boolean ok = navigator.synchronizeView(0, 1);
@@ -300,6 +295,7 @@ public class MainActivity extends Activity {
 			if (!navigator.displayMetadata(1))
 				errorMessage(getString(R.string.error_metadataNotFound));
 			return true;*/
+
 
 		case R.id.tableOfContents:
 			if (navigator.exactlyOneBookOpen() == true
@@ -445,7 +441,6 @@ public class MainActivity extends Activity {
 			Bundle bundle = new Bundle();
 			bundle.putInt(getString(R.string.tome), book);
 			bundle.putStringArray(getString(R.string.lang), languages);
-
 			LanguageChooser langChooser = new LanguageChooser();
 			langChooser.setArguments(bundle);
 			langChooser.show(getFragmentManager(), "");

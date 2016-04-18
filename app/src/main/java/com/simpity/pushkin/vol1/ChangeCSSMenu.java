@@ -25,6 +25,7 @@ public class ChangeCSSMenu extends DialogFragment {
 	protected Spinner spinFontSize;
 	protected Spinner spinLineH;
 	protected Button defaultButton;
+	protected Button closeButton;
 	protected Spinner spinLeft;
 	protected Spinner spinRight;
 	protected int colInt, backInt, fontInt, alignInt, sizeInt, heightInt,
@@ -78,10 +79,12 @@ public class ChangeCSSMenu extends DialogFragment {
 	//	spinRight.setSelection(marginRInt);
 
 		defaultButton = (Button) view.findViewById(R.id.buttonDefault);
+		closeButton = (Button)view.findViewById(R.id.closeButton);
 		// editTextTop = (EditText) view.findViewById(R.id.editText1);
 		// editTextBottom = (EditText) view.findViewById(R.id.editText2);
 		// editTextLeft = (EditText) view.findViewById(R.id.editText3);
 		// editTextRight = (EditText) view.findViewById(R.id.editText4);
+
 
 		builder.setTitle("Настройки");
 		builder.setView(view);
@@ -359,6 +362,13 @@ public class ChangeCSSMenu extends DialogFragment {
 					}
 				});
 */
+
+		closeButton.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				a.navigator.closeViewOnly(0);
+			}
+		});
 		defaultButton.setOnClickListener(new View.OnClickListener() {
 
 			@Override

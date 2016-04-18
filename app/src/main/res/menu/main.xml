@@ -7,9 +7,6 @@
             </menu>
 
 
-
-
-
     <item android:id="@+id/Front" android:title="@string/Enable_Parallel_Texts">
         <menu>
             <item android:id="@+id/FirstFront" android:title="@string/From_Book_1" android:visible="false"/>
@@ -33,21 +30,26 @@
         </menu>
 -->
 
-    <item android:id="@+id/tableOfContents" android:title="@string/Table_of_Contents">
+    <item android:id="@+id/tableOfContents" android:showAsAction="always" android:visible="true" android:title="@string/Table_of_Contents">
         <menu>
             <item android:id="@+id/toc1" android:title="@string/Book_1" android:visible="false"/>
             <item android:id="@+id/toc2" android:title="@string/Book_2" android:visible="false"/>
         </menu>
     </item>
 
-    <item android:id="@+id/changeSize" android:title="@string/Change_Size" android:visible="true" android:checkable="false">
+    <item android:id="@+id/changeSize" android:title="@string/Change_Size" android:visible="false"  android:showAsAction="never" android:checkable="false">
     </item>
-    <item android:id="@+id/Style" android:title="@string/changeStyle" android:visible="true">
-        <menu>
-            <item android:id="@+id/StyleBook1" android:title="@string/Book_1" android:visible="false"/>
-            <item android:id="@+id/StyleBook2" android:title="@string/Book_2" android:visible="false"/>
-        </menu>
-    </item>
+    <item android:id="@+id/Style" android:title="@string/changeStyle" android:showAsAction="always" android:visible="true">
+    <menu>
+        <item android:id="@+id/StyleBook1" android:title="@string/Book_1" android:visible="false"/>
+        <item android:id="@+id/StyleBook2" android:title="@string/Book_2" android:visible="false"/>
+    </menu>
+</item>
+
+
+
+
+
     <item android:id="@+id/SyncScroll" android:title="@string/syncScroll" android:visible="false">
         <menu>
             <item android:id="@+id/firstAudio" android:title="@string/Book_1"/>

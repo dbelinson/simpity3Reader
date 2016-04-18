@@ -128,6 +128,45 @@ public class EpubNavigator {
 							(book + i) % nBooks);
 	}
 
+	public boolean closeViewhasUrlToBack(int index){
+		//if  case: note or another panel over a book
+		if (books[index] != null
+				&& (!(views[index] instanceof BookView) || (((BookView) views[index]).state != ViewStateEnum.books))) {
+			return  true;
+		}  else return false;
+	}
+
+	public void closeViewOnly(int index) {
+
+			if (books[index] != null)
+				try {
+					books[index].destroy();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			activity.removePanel(views[index]);
+
+			while (index < nBooks - 1) {
+				books[index] = books[index + 1]; // shift left all books
+				if (books[index] != null) // updating their folder
+					books[index].changeDirName(index + ""); // according to the
+															// index
+
+				views[index] = views[index + 1]; // shift left every panel
+				if (views[index] != null) {
+					views[index].setKey(index); // update the panel key
+					if (views[index] instanceof BookView
+							&& ((BookView) views[index]).state == ViewStateEnum.books)
+						((BookView) views[index]).loadPage(books[index]
+								.getCurrentPageURL()); // reload the book page
+				}
+				index++;
+			}
+			books[nBooks - 1] = null; // last book and last view
+			views[nBooks - 1] = null; // don't exist anymore
+		}
+
 	public void closeView(int index) {
 		if (views[index] instanceof AudioView) {
 			((AudioView) views[index]).stop();
@@ -160,7 +199,7 @@ public class EpubNavigator {
 				books[index] = books[index + 1]; // shift left all books
 				if (books[index] != null) // updating their folder
 					books[index].changeDirName(index + ""); // according to the
-															// index
+				// index
 
 				views[index] = views[index + 1]; // shift left every panel
 				if (views[index] != null) {
